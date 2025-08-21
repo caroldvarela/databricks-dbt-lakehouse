@@ -1,0 +1,174 @@
+
+version: 2
+
+
+models:
+  - name: CampaignSalesSummary
+    description: "Total sales aggregated by campaign"
+    columns:
+      - name: campaign_id
+        tests:
+          - not_null
+      - name: campaign_name
+        tests:
+          - not_null
+      - name: start_date
+        tests:
+          - not_null
+      - name: end_date
+      - name: total_sales
+        tests:
+          - not_null
+      - name: total_transactions
+        tests:
+          - not_null
+      - name: unique_customers
+
+  - name: CustomerSegmentSalesSummary
+    description: "Sales aggregated by customer segment and residential location"
+    columns:
+      - name: customer_segment
+        tests:
+          - not_null
+      - name: residential_location
+        tests:
+          - not_null
+      - name: total_sales
+        tests:
+          - not_null
+      - name: total_transactions
+      - name: unique_customers
+
+  - name: DailyCampaignSales
+    description: "Daily sales aggregated by campaign"
+    columns:
+      - name: campaign_id
+        tests:
+          - not_null
+      - name: full_date
+        tests:
+          - not_null
+          - unique:
+              config:
+                combination_of_columns:
+                  - campaign_id
+                  - full_date
+      - name: daily_sales
+        tests:
+          - not_null
+      - name: transactions
+      - name: unique_customers
+
+  - name: DailyMonthlySalesSummary
+    description: "Daily sales with year and month breakdown"
+    columns:
+      - name: full_date
+        tests:
+          - not_null
+          - unique
+      - name: year
+        tests:
+          - not_null
+      - name: month
+        tests:
+          - not_null
+          - accepted_values:
+              values: [1,2,3,4,5,6,7,8,9,10,11,12]
+      - name: total_sales
+        tests:
+          - not_null
+      - name: num_transactions
+
+  - name: DailyStoreSales
+    description: "Daily sales aggregated by store"
+    columns:
+      - name: store_id
+        tests:
+          - not_null
+      - name: full_date
+        tests:
+          - not_null
+          - unique:
+              config:
+                combination_of_columns:
+                  - store_id
+                  - full_date
+      - name: daily_sales
+        tests:
+          - not_null
+      - name: transactions
+
+  - name: MonthlySalesByCategory
+    description: "Monthly sales aggregated by product category"
+    columns:
+      - name: category
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: month_name
+      - name: total_sales
+        tests:
+          - not_null
+      - name: transactions
+
+  - name: MonthlySalesBySalesperson
+    description: "Monthly sales aggregated by salesperson"
+    columns:
+      - name: salesperson_id
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: month
+        tests:
+          - not_null
+          - accepted_values:
+              values: [1,2,3,4,5,6,7,8,9,10,11,12]
+      - name: total_sales
+        tests:
+          - not_null
+      - name: transactions
+
+  - name: SalespersonSalesSummary
+    description: "Total sales aggregated by salesperson"
+    columns:
+      - name: salesperson_id
+        tests:
+          - not_null
+          - unique
+      - name: total_sales
+        tests:
+          - not_null
+      - name: total_transactions
+
+  - name: SalesSummaryByCategoryBrand
+    description: "Total sales aggregated by category and brand"
+    columns:
+      - name: category
+        tests:
+          - not_null
+      - name: brand
+        tests:
+          - not_null
+      - name: total_sales
+        tests:
+          - not_null
+      - name: num_transactions
+
+  - name: StoreSalesSummary
+    description: "Total sales aggregated by store"
+    columns:
+      - name: store_id
+        tests:
+          - not_null
+          - unique
+      - name: store_name
+      - name: store_type
+      - name: store_location
+      - name: total_sales
+        tests:
+          - not_null
+      - name: total_transactions
