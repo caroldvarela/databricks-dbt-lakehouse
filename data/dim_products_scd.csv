@@ -1,0 +1,6 @@
+product_sk,product_id,product_name,category,brand,origin_location
+10,PROD_00010,QLED 4K TV,Electronics,Samsung,San Francisco
+208,PROD_00208,Training Pants,Sports & Outdoors,Reebok,San Francisco
+78,PROD_00078,Ultraboost 22,Clothing,Adidas,San Francisco
+3,PROD_00003,PlayStation 5,Electronics,Sony,San Francisco
+186,PROD_00186,Yoga Mat,Sports & Outdoors,Nike,San Francisco

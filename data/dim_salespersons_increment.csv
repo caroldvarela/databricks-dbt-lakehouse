@@ -1,0 +1,184 @@
+salesperson_sk,salesperson_id,salesperson_name,salesperson_role
+27,SP00027,Donald Stewart,Sales Associate
+28,SP00028,Jacqueline Chen,Senior Salesperson
+33,SP00033,Nicole Anderson,Sales Associate
+47,SP00047,Michael Oliver,Sales Associate
+60,SP00060,Brian Rose,Salesperson
+72,SP00072,Michelle Wilkerson,Sales Associate
+86,SP00086,Natalie Miller,Manager
+109,SP00109,Jeremiah Weber,Sales Associate
+112,SP00112,Lindsay Rios,Sales Associate
+115,SP00115,Julie Oliver,Senior Salesperson
+133,SP00133,Joseph Horton,Sales Associate
+140,SP00140,David Wilson,Sales Associate
+142,SP00142,Rachel Ball,Senior Salesperson
+143,SP00143,James King,Senior Salesperson
+154,SP00154,Kathleen Wood,Sales Associate
+155,SP00155,Timothy Baxter,Salesperson
+167,SP00167,Brandon Gross,Manager
+183,SP00183,Joseph Garcia,Sales Associate
+205,SP00205,Timothy Herrera,Sales Associate
+211,SP00211,Jason Miller,Sales Associate
+215,SP00215,Susan Robinson,Salesperson
+222,SP00222,Tara Johnson,Salesperson
+226,SP00226,Deanna Gordon,Sales Associate
+231,SP00231,Adam Hernandez,Salesperson
+238,SP00238,Brooke Krueger,Salesperson
+242,SP00242,Juan Davis,Senior Salesperson
+269,SP00269,Dylan Rivera,Senior Salesperson
+290,SP00290,Amanda Rodriguez,Salesperson
+299,SP00299,Lauren Wong,Salesperson
+300,SP00300,Michael Ritter,Senior Salesperson
+318,SP00318,Amy Garcia,Manager
+363,SP00363,Gabriel Allen,Senior Salesperson
+379,SP00379,Stacy Reid,Senior Salesperson
+384,SP00384,Zachary Smith,Senior Salesperson
+390,SP00390,Alexa Williams,Salesperson
+401,SP00401,Kelsey Vaughan,Salesperson
+402,SP00402,Arthur Martinez,Sales Associate
+404,SP00404,Ashley Bruce,Manager
+414,SP00414,John Jennings,Salesperson
+426,SP00426,Stephanie Garza,Salesperson
+440,SP00440,Jeremy Graham,Sales Associate
+467,SP00467,Austin Butler,Salesperson
+491,SP00491,Katherine Kemp,Senior Salesperson
+508,SP00508,Brandon Jones,Salesperson
+532,SP00532,Kimberly Roberts,Salesperson
+552,SP00552,Christine Dickson,Manager
+554,SP00554,Angela Hendrix,Salesperson
+577,SP00577,James Harris,Senior Salesperson
+578,SP00578,Bobby Cisneros,Sales Associate
+582,SP00582,Jennifer Hunt,Senior Salesperson
+592,SP00592,Jessica Romero,Sales Associate
+595,SP00595,Laura Sanchez,Manager
+614,SP00614,Mary Ellis,Senior Salesperson
+624,SP00624,Steven Stewart,Senior Salesperson
+628,SP00628,Katelyn Ford,Senior Salesperson
+632,SP00632,Michelle Salinas,Sales Associate
+646,SP00646,Brian Clark,Salesperson
+654,SP00654,Matthew Hunt,Sales Associate
+655,SP00655,Jeremy Cantu,Sales Associate
+656,SP00656,Evan Villegas,Sales Associate
+680,SP00680,Christopher Singleton,Sales Associate
+682,SP00682,Casey Mendoza,Senior Salesperson
+687,SP00687,Catherine Johnson,Salesperson
+696,SP00696,Victoria Russell,Sales Associate
+705,SP00705,Cassandra Barrett,Senior Salesperson
+747,SP00747,Shawn Mcbride,Senior Salesperson
+750,SP00750,Kathryn Erickson,Senior Salesperson
+766,SP00766,Antonio Stevens,Senior Salesperson
+777,SP00777,Taylor Johnson,Sales Associate
+780,SP00780,Lauren Thomas,Manager
+784,SP00784,Teresa Boyd,Salesperson
+795,SP00795,Karen Franklin,Senior Salesperson
+797,SP00797,Heather Bailey,Sales Associate
+809,SP00809,Joseph Bowers,Salesperson
+833,SP00833,Michelle Barnes,Salesperson
+835,SP00835,Jeffery Scott,Senior Salesperson
+839,SP00839,Renee Blake,Senior Salesperson
+850,SP00850,Cody Mejia,Sales Associate
+854,SP00854,Emily Fox,Sales Associate
+872,SP00872,Raymond Davidson,Sales Associate
+881,SP00881,Michael Weber,Salesperson
+892,SP00892,Corey Martin,Salesperson
+917,SP00917,Shaun Berry,Salesperson
+924,SP00924,Troy Johnson,Salesperson
+926,SP00926,Leonard Tyler,Senior Salesperson
+932,SP00932,Erik Evans,Senior Salesperson
+979,SP00979,Walter Manning,Salesperson
+988,SP00988,Richard Ayala,Sales Associate
+992,SP00992,Marcia Smith,Senior Salesperson
+993,SP00993,Lisa Lewis,Salesperson
+999,SP00999,Carol Doyle,Salesperson
+1004,SP01004,Mandy Johnson,Senior Salesperson
+1014,SP01014,Robert Guzman,Sales Associate
+1017,SP01017,Wayne Lester,Senior Salesperson
+1022,SP01022,Darrell Walters,Senior Salesperson
+1032,SP01032,Luis Schmidt,Sales Associate
+1042,SP01042,David Walker,Senior Salesperson
+1046,SP01046,Alan Wilson,Salesperson
+1076,SP01076,Danny Carlson,Sales Associate
+1079,SP01079,Scott Allen,Senior Salesperson
+1082,SP01082,Brandon Burch,Salesperson
+1086,SP01086,Sarah Torres,Senior Salesperson
+1099,SP01099,Christopher Byrd,Salesperson
+1112,SP01112,Melissa Shelton,Salesperson
+1114,SP01114,Pamela Young,Salesperson
+1126,SP01126,Katie Rasmussen,Senior Salesperson
+1138,SP01138,Shane Riley,Sales Associate
+1142,SP01142,Christopher Griffin,Salesperson
+1167,SP01167,Brandon Farmer,Salesperson
+1168,SP01168,Becky Frost,Senior Salesperson
+1187,SP01187,David Casey,Senior Salesperson
+1206,SP01206,Anna Henderson,Senior Salesperson
+1207,SP01207,Ashley Merritt,Salesperson
+1215,SP01215,Mary Johnston,Senior Salesperson
+1221,SP01221,Michael Valentine,Salesperson
+1228,SP01228,Natalie Campbell,Salesperson
+1231,SP01231,Sean Watkins,Sales Associate
+1245,SP01245,Jermaine Hartman,Salesperson
+1259,SP01259,Kari Martinez,Salesperson
+1263,SP01263,Sheri Morris,Sales Associate
+1274,SP01274,James Holmes,Senior Salesperson
+1281,SP01281,Brian Johnson,Salesperson
+1293,SP01293,Brittany Reese,Senior Salesperson
+1309,SP01309,David Jones,Manager
+1311,SP01311,Robert Ball,Senior Salesperson
+1313,SP01313,Heather Wise,Sales Associate
+1318,SP01318,Bryan Everett,Salesperson
+1335,SP01335,Deanna Jones,Salesperson
+1402,SP01402,Heather Sullivan,Salesperson
+1407,SP01407,Benjamin Harris,Senior Salesperson
+1409,SP01409,Candace Bruce,Senior Salesperson
+1417,SP01417,Susan Sanders,Sales Associate
+1428,SP01428,Nicole Gilbert,Salesperson
+1437,SP01437,Melissa Hernandez,Salesperson
+1440,SP01440,Samuel Fox,Salesperson
+1445,SP01445,Jessica Sanchez,Salesperson
+1451,SP01451,Whitney Evans,Senior Salesperson
+1453,SP01453,Janet Bridges,Salesperson
+1455,SP01455,Matthew Hughes,Salesperson
+1470,SP01470,Matthew Hill,Manager
+1476,SP01476,Ann Jackson,Senior Salesperson
+1509,SP01509,William Todd,Salesperson
+1515,SP01515,Alice Scott,Manager
+1521,SP01521,Andrew Johnson,Salesperson
+1565,SP01565,Debra White,Sales Associate
+1566,SP01566,Samantha Mccarthy,Senior Salesperson
+1596,SP01596,Adam Aguilar,Senior Salesperson
+1605,SP01605,Curtis Washington,Sales Associate
+1615,SP01615,Derrick Mcclure,Salesperson
+1631,SP01631,Jeffrey Maynard,Sales Associate
+1642,SP01642,Alexandra Russell,Senior Salesperson
+1667,SP01667,Dylan Coleman,Sales Associate
+1671,SP01671,Michael Williams,Sales Associate
+1672,SP01672,Alan Collins,Sales Associate
+1680,SP01680,Craig Browning,Sales Associate
+1698,SP01698,Jessica Hernandez,Sales Associate
+1700,SP01700,Jeremy Barnes,Salesperson
+1704,SP01704,Melissa Mcguire,Salesperson
+1707,SP01707,Michael Mcdaniel,Sales Associate
+1710,SP01710,Anthony Jackson,Senior Salesperson
+1712,SP01712,Shannon Davenport,Salesperson
+1720,SP01720,Cory Weaver,Sales Associate
+1724,SP01724,Steven Parsons,Senior Salesperson
+1729,SP01729,Melissa Greene,Salesperson
+1749,SP01749,Angela Wright,Sales Associate
+1785,SP01785,Roberto Kramer,Salesperson
+1787,SP01787,Michael Montgomery,Manager
+1799,SP01799,Luis Thomas,Senior Salesperson
+1814,SP01814,Tonya Anderson,Salesperson
+1838,SP01838,Lisa Lee,Salesperson
+1840,SP01840,Kathleen Pham,Salesperson
+1841,SP01841,Christopher Christian,Senior Salesperson
+1852,SP01852,Carlos Mack,Salesperson
+1854,SP01854,David Lopez,Salesperson
+1858,SP01858,Dawn Craig,Sales Associate
+1876,SP01876,Toni Goodwin,Senior Salesperson
+1883,SP01883,Jennifer Barnes,Manager
+1889,SP01889,Jessica Cunningham,Sales Associate
+1898,SP01898,Howard Caldwell,Sales Associate
+1923,SP01923,Robert Singleton,Sales Associate
+1931,SP01931,Maria Bradford,Sales Associate
+1943,SP01943,Jennifer Lopez,Salesperson
+1978,SP01978,Morgan Brown,Sales Associate

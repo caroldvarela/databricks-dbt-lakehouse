@@ -1,0 +1,6 @@
+store_sk,store_id,store_name,store_type,store_location,store_manager_sk
+181,STR_00181,CityMart,Supermarkets ,New York,256
+24,STR_00024,NeoStore,Supermarkets ,Louisville,38
+137,STR_00137,TechBazaar,Supermarkets ,Virginia Beach,1984
+122,STR_00122,CosmoMart,Supermarkets ,San Antonio,1688
+242,STR_00242,FurniWorld,Supermarkets ,Detroit,1152

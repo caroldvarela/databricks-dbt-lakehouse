@@ -1,0 +1,6 @@
+campaign_sk,campaign_id,campaign_name,start_date_sk,end_date_sk,campaign_budget
+51,CAMP_051,Back to School Blast,362,400,520000
+52,CAMP_052,Holiday Mega Deals,401,450,780000
+53,CAMP_053,End of Year Blowout,451,470,610000
+54,CAMP_054,Fitness Kickstart,471,490,350000
+55,CAMP_055,Outdoor Essentials Event,491,510,430000

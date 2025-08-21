@@ -1,0 +1,11 @@
+customer_sk,customer_id,first_name,last_name,email,residential_location,customer_segment
+7030,CUST_07030,Oscar,Williams,oscar.williams@outlook.com,Las Vegas,Loyal Customer
+3596,CUST_03596,Lucas,Pierce,lucas.pierce@yahoo.com,Jacksonville,Loyal Customer
+57343,CUST_57343,Anthony,Chen,anthony.chen@yahoo.com,Tampa,Loyal Customer
+5104,CUST_05104,Todd,Lee,todd.lee@outlook.com,Columbus,Loyal Customer
+75760,CUST_75760,Courtney,Guzman,courtney.guzman@yahoo.com,Virginia Beach,Loyal Customer
+82487,CUST_82487,Deanna,Wallace,deanna.wallace@outlook.com,Tampa,Loyal Customer
+40837,CUST_40837,William,Mitchell,william.mitchell@yahoo.com,Austin,Loyal Customer
+54709,CUST_54709,Anna,Lewis,anna.lewis@gmail.com,Baltimore,Loyal Customer
+24820,CUST_24820,Calvin,Hughes,calvin.hughes@gmail.com,El Paso,Loyal Customer
+86605,CUST_86605,Lisa,Boyd,lisa.boyd@outlook.com,Charlotte,Loyal Customer

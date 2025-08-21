@@ -1,0 +1,18 @@
+store_sk,store_id,store_name,store_type,store_location,store_manager_sk
+43,STR_00043,StyleStop,Supermarkets ,New York,742
+48,STR_00048,MegaDeals,Supermarkets ,Columbus,1235
+72,STR_00072,NeoStore,Small Stores / Shops,Los Angeles,1470
+95,STR_00095,FitNGo,Supermarkets ,Jacksonville,1787
+100,STR_00100,WearWell,Large Malls / Complexes,Columbus,1883
+101,STR_00101,FabNest,Supermarkets ,San Francisco,1069
+120,STR_00120,DailyMart,Small Stores / Shops,Minneapolis,611
+157,STR_00157,SportShack,Small Stores / Shops,Fresno,552
+229,STR_00229,NextGenMart,Supermarkets ,Arlington,1309
+254,STR_00254,VivaStores,Small Stores / Shops,Houston,339
+256,STR_00256,SmartChoice,Supermarkets ,Omaha,595
+338,STR_00338,CityMart,Small Stores / Shops,Washington,167
+358,STR_00358,GadgetZone,Supermarkets ,San Antonio,86
+390,STR_00390,CityMart,Large Malls / Complexes,Indianapolis,1236
+413,STR_00413,SmartBuy,Large Malls / Complexes,Arlington,318
+436,STR_00436,BudgetBuy,Supermarkets ,Seattle,780
+497,STR_00497,ShopEase,Large Malls / Complexes,Virginia Beach,659
