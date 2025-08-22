@@ -71,9 +71,9 @@ Source CSV files:
 
 CSV files feeding the transformation pipeline, organized in three types:
 
-- **Initial data** (`dim_campaigns.csv`, `dim_products.csv`, etc.): base and static information to load dimensions and facts into Raw/Bronze.  
-- **Incremental data** (`*_increment.csv`): new records, without modifying existing ones.  
-- **SCD data** (`*_scd.csv`): historical changes in dimensions.  
+- **Initial data** (`dim_campaigns.csv`, `dim_products.csv`, etc.): Base and static datasets used to initialize dimensions and facts in the Raw/Bronze layers.
+- **Incremental data** (`*_increment.csv`): New records appended over time, without modifying existing ones (supports incremental loading).
+- **SCD data** (`*_scd.csv`): Updates in dimension attributes (e.g., customer, product, campaign changes), processed with SCD Type 1 to always keep the most up-to-date version.  
 
 These datasets come from Kaggle ([Link](https://www.kaggle.com/datasets/shrinivasv/retail-store-star-schema-dataset/data)) adapted to our use case.  
 
