@@ -111,6 +111,8 @@ Each file is stored in the `Raw` layer and transformed into `Silver` and `Gold` 
 9. `salessummarybycategorybrand` → Sales by category and brand  
 10. `storesalessummary` → Store sales summary  
 
+All these models are defined in the dbt/models/business/ folder, while *Business.ipynb* is used only for running queries (SELECT) on them inside Databricks.  
+
 ### Business questions answered:
 
 - Impact of campaigns on sales  
@@ -143,14 +145,15 @@ Here is a corrected and well-formatted version of the file tree you provided:
 ```
 .
 ├── notebooks/
-│   ├── 01_Setup.ipynb            # Create schemas and volumes
-│   ├── 02_SrcParameters.ipynb    # Source configuration
-│   ├── 03_Bronze.ipynb           # Raw → Bronze ingestion
-│   ├── 04_DLT_pipeline.py        # Bronze → Silver transformation
+│   ├── 01_Setup.ipynb                 # Create schemas and volumes
+│   ├── 02_SrcParameters.ipynb         # Source configuration
+│   ├── 03_Bronze.ipynb                # Raw → Bronze ingestion
+│   ├── 04_DLT_pipeline.py             # Bronze → Silver transformation
 │   ├── 05_LoadStaticDimensions.ipynb  # Static dimensions load
-│   ├── 06_DimParameters.ipynb    # Dimensions configuration
+│   ├── 06_DimParameters.ipynb         # Dimensions configuration
 │   ├── 07_GoldLayer-Dimensions.ipynb  # SCD dimensions processing
-│   └── 08_GoldLayer-Fact.ipynb   # Fact table CDC load
+│   ├── 08_GoldLayer-Fact.ipynb        # Fact table CDC load
+│   └── 09_Business.ipynb              # Business models (DBT tables)
 │
 ├── dbt/
 │   ├── models/
@@ -159,9 +162,9 @@ Here is a corrected and well-formatted version of the file tree you provided:
 │   │       ├── dailycampaignsales.sql
 │   │       ├── dailystoresales.sql
 │   │       ├── monthlysalesbycategory.sql
-│   │       ├── schema.yml          # DBT schema configuration
+│   │       ├── schema.yml             # DBT schema configuration
 │   │       └── ...
-│   └── dbt_project.yml           # DBT project configuration
+│   └── dbt_project.yml                # DBT project configuration
 │
 ├── data/
 │   ├── dim_campaigns.csv
@@ -176,8 +179,9 @@ Here is a corrected and well-formatted version of the file tree you provided:
 │   └── ...
 │
 └── docs/
-    └── Documentation.pdf         # Full project documentation
+    └── Documentation.pdf              # Full project documentation
 ```
+
 ---
 
 ## ▶️ Execution
@@ -191,6 +195,7 @@ Here is a corrected and well-formatted version of the file tree you provided:
 7. Load fact table (`GoldLayer-Fact.ipynb`).  
 8. Run DBT models on the Gold tables.  
 
+[![Watch the video](https://img.youtube.com/vi/BkQkPGQiyag/maxresdefault.jpg)](https://www.youtube.com/watch?v=BkQkPGQiyag)
 
 ---
 
