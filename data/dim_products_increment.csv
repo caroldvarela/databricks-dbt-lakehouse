@@ -1,0 +1,7 @@
+product_sk,product_id,product_name,category,brand,origin_location
+211,PROD_00211,Boxing Gloves,Sports & Outdoors,Everlast,Chicago
+212,PROD_00212,Cycling Helmet,Sports & Outdoors,Giro,Denver
+213,PROD_00213,Climbing Rope,Sports & Outdoors,Black Diamond,Boulder
+214,PROD_00215,Golf Clubs Set,Sports & Outdoors,Callaway,Phoenix
+215,PROD_00216,Hiking Boots,Sports & Outdoors,Merrell,Portland
+216,PROD_00217,Skateboard,Sports & Outdoors,Element,Santa Cruz

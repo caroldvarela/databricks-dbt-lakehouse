@@ -1,0 +1,1482 @@
+customer_sk,customer_id,first_name,last_name,email,residential_location,customer_segment
+14,CUST_00014,Christina,Graham,christina.graham@yahoo.com,Las Vegas,Online Shopper
+45,CUST_00045,Allison,Martinez,allison.martinez@yahoo.com,Sacramento,Occasional Shopper
+240,CUST_00240,James,Gardner,james.gardner@gmail.com,Boston,Deal Seeker
+332,CUST_00332,Jeffrey,Hancock,jeffrey.hancock@outlook.com,Indianapolis,First-time Buyer
+368,CUST_00368,Jill,Frank,jill.frank@outlook.com,Oklahoma City,Online Shopper
+435,CUST_00435,Nichole,Stevens,nichole.stevens@outlook.com,Albuquerque,Online Shopper
+486,CUST_00486,Jonathan,Collins,jonathan.collins@gmail.com,Baltimore,Premium Shopper
+488,CUST_00488,Kimberly,Baker,kimberly.baker@yahoo.com,Atlanta,Deal Seeker
+491,CUST_00491,Jim,George,jim.george@outlook.com,Philadelphia,Budget Shopper
+632,CUST_00632,Brandon,Johnson,brandon.johnson@yahoo.com,Philadelphia,Premium Shopper
+690,CUST_00690,John,Garcia,john.garcia@gmail.com,Seattle,Deal Seeker
+726,CUST_00726,Robert,Rodriguez,robert.rodriguez@outlook.com,Baltimore,Online Shopper
+733,CUST_00733,Katherine,Taylor,katherine.taylor@yahoo.com,Indianapolis,High Value
+739,CUST_00739,Noah,Craig,noah.craig@gmail.com,New York,Loyal Customer
+786,CUST_00786,Travis,Gonzalez,travis.gonzalez@gmail.com,Fresno,Churn Risk
+904,CUST_00904,Natalie,Sloan,natalie.sloan@yahoo.com,Las Vegas,Deal Seeker
+929,CUST_00929,Alexis,Young,alexis.young@gmail.com,Arlington,Occasional Shopper
+972,CUST_00972,William,Kelly,william.kelly@gmail.com,Milwaukee,Online Shopper
+983,CUST_00983,David,Walter,david.walter@gmail.com,El Paso,Deal Seeker
+1030,CUST_01030,Yvonne,Boone,yvonne.boone@gmail.com,Sacramento,Occasional Shopper
+1060,CUST_01060,Stacie,Smith,stacie.smith@yahoo.com,Nashville,Online Shopper
+1075,CUST_01075,Jerry,Randall,jerry.randall@outlook.com,Detroit,Occasional Shopper
+1101,CUST_01101,David,Arellano,david.arellano@outlook.com,Sacramento,Loyal Customer
+1191,CUST_01191,Chad,Smith,chad.smith@yahoo.com,Portland,Churn Risk
+1218,CUST_01218,Maureen,Weaver,maureen.weaver@gmail.com,Sacramento,First-time Buyer
+1247,CUST_01247,Crystal,Dawson,crystal.dawson@yahoo.com,New Orleans,Loyal Customer
+1286,CUST_01286,James,Brady,james.brady@yahoo.com,Nashville,Premium Shopper
+1295,CUST_01295,Matthew,Long,matthew.long@outlook.com,Seattle,Premium Shopper
+1430,CUST_01430,Hector,Spears,hector.spears@yahoo.com,Tampa,High Value
+1485,CUST_01485,Kevin,Evans,kevin.evans@yahoo.com,Virginia Beach,Deal Seeker
+1509,CUST_01509,Derrick,Wilson,derrick.wilson@gmail.com,Baltimore,High Value
+1708,CUST_01708,Angela,Maddox,angela.maddox@outlook.com,Las Vegas,Deal Seeker
+1770,CUST_01770,Gregory,Gray,gregory.gray@gmail.com,Columbus,Budget Shopper
+1822,CUST_01822,Jeffery,Hernandez,jeffery.hernandez@yahoo.com,Sacramento,Premium Shopper
+1878,CUST_01878,Craig,Cohen,craig.cohen@outlook.com,Detroit,Budget Shopper
+1897,CUST_01897,Mary,Smith,mary.smith@gmail.com,Sacramento,Online Shopper
+1928,CUST_01928,Jason,Kelly,jason.kelly@outlook.com,Mesa,First-time Buyer
+1939,CUST_01939,Timothy,Wall,timothy.wall@gmail.com,Detroit,Deal Seeker
+1951,CUST_01951,Joshua,Carney,joshua.carney@outlook.com,Miami,Occasional Shopper
+1955,CUST_01955,Carlos,Ford,carlos.ford@gmail.com,San Francisco,Churn Risk
+2070,CUST_02070,Amber,Curtis,amber.curtis@yahoo.com,Virginia Beach,Occasional Shopper
+2102,CUST_02102,Dennis,Harvey,dennis.harvey@outlook.com,Philadelphia,Deal Seeker
+2283,CUST_02283,Lisa,Hanna,lisa.hanna@outlook.com,Las Vegas,Churn Risk
+2341,CUST_02341,Laura,Torres,laura.torres@yahoo.com,San Diego,First-time Buyer
+2414,CUST_02414,Michael,Smith,michael.smith@gmail.com,San Diego,Online Shopper
+2422,CUST_02422,Brianna,Jones,brianna.jones@outlook.com,Fresno,Loyal Customer
+2646,CUST_02646,Samuel,Spears,samuel.spears@yahoo.com,Long Beach,In-Store Regular
+2708,CUST_02708,Donna,Gonzalez,donna.gonzalez@yahoo.com,Chicago,Online Shopper
+2755,CUST_02755,Brian,Walker,brian.walker@gmail.com,Colorado Springs,In-Store Regular
+2856,CUST_02856,Cindy,Taylor,cindy.taylor@outlook.com,Arlington,Occasional Shopper
+2930,CUST_02930,Ian,Sherman,ian.sherman@yahoo.com,Kansas City,Loyal Customer
+3011,CUST_03011,Tammy,Walters,tammy.walters@yahoo.com,Philadelphia,In-Store Regular
+3150,CUST_03150,David,Santiago,david.santiago@outlook.com,Milwaukee,Churn Risk
+3166,CUST_03166,Sara,Wang,sara.wang@outlook.com,Louisville,Budget Shopper
+3267,CUST_03267,Samantha,Burke,samantha.burke@outlook.com,Tampa,In-Store Regular
+3305,CUST_03305,Shannon,Savage,shannon.savage@gmail.com,Omaha,Churn Risk
+3354,CUST_03354,Dennis,Alexander,dennis.alexander@outlook.com,Tampa,Online Shopper
+3402,CUST_03402,Sandra,Guerra,sandra.guerra@gmail.com,Los Angeles,Deal Seeker
+3502,CUST_03502,Brandon,Smith,brandon.smith@yahoo.com,San Diego,Occasional Shopper
+3509,CUST_03509,Thomas,Simpson,thomas.simpson@outlook.com,Oklahoma City,Loyal Customer
+3512,CUST_03512,Brenda,Jones,brenda.jones@gmail.com,Los Angeles,Occasional Shopper
+3555,CUST_03555,Barbara,Mcgee,barbara.mcgee@yahoo.com,San Diego,First-time Buyer
+3596,CUST_03596,Lucas,Pierce,lucas.pierce@yahoo.com,Jacksonville,High Value
+3667,CUST_03667,Mike,Pacheco,mike.pacheco@yahoo.com,Las Vegas,Premium Shopper
+3675,CUST_03675,Joel,Arias,joel.arias@gmail.com,Minneapolis,Occasional Shopper
+3756,CUST_03756,Vanessa,Turner,vanessa.turner@gmail.com,Miami,Online Shopper
+3812,CUST_03812,David,Dorsey,david.dorsey@gmail.com,San Jose,Premium Shopper
+3846,CUST_03846,Jose,Hanson,jose.hanson@gmail.com,Detroit,Loyal Customer
+3955,CUST_03955,Dawn,Collins,dawn.collins@outlook.com,Sacramento,Online Shopper
+4027,CUST_04027,Andrew,Williams,andrew.williams@outlook.com,Tampa,Online Shopper
+4126,CUST_04126,Rodney,Vance,rodney.vance@outlook.com,Mesa,High Value
+4136,CUST_04136,Mary,Madden,mary.madden@gmail.com,New York,Premium Shopper
+4221,CUST_04221,Joanne,Fitzpatrick,joanne.fitzpatrick@yahoo.com,Long Beach,Occasional Shopper
+4302,CUST_04302,Hannah,Gordon,hannah.gordon@yahoo.com,San Jose,First-time Buyer
+4367,CUST_04367,John,Barnett,john.barnett@yahoo.com,Tulsa,Online Shopper
+4372,CUST_04372,Jeffery,Morales,jeffery.morales@outlook.com,Dallas,First-time Buyer
+4422,CUST_04422,Gregory,Gomez,gregory.gomez@gmail.com,Dallas,Budget Shopper
+4443,CUST_04443,Veronica,Mendez,veronica.mendez@gmail.com,Austin,Loyal Customer
+4445,CUST_04445,Joseph,Anthony,joseph.anthony@outlook.com,Arlington,In-Store Regular
+4653,CUST_04653,Sherry,Johnson,sherry.johnson@yahoo.com,Philadelphia,First-time Buyer
+4750,CUST_04750,Anne,Stevens,anne.stevens@gmail.com,Colorado Springs,First-time Buyer
+4780,CUST_04780,Brandi,Andrews,brandi.andrews@outlook.com,Kansas City,Loyal Customer
+4826,CUST_04826,Jeremy,Cooper,jeremy.cooper@yahoo.com,Las Vegas,Budget Shopper
+4862,CUST_04862,Tammy,Nunez,tammy.nunez@outlook.com,Tucson,High Value
+4900,CUST_04900,Jordan,Rogers,jordan.rogers@yahoo.com,Long Beach,Deal Seeker
+4971,CUST_04971,James,Kennedy,james.kennedy@outlook.com,Milwaukee,Churn Risk
+5104,CUST_05104,Todd,Lee,todd.lee@outlook.com,Columbus,High Value
+5315,CUST_05315,Keith,Hill,keith.hill@gmail.com,Oklahoma City,Occasional Shopper
+5399,CUST_05399,Mark,Herring,mark.herring@yahoo.com,Phoenix,Loyal Customer
+5458,CUST_05458,Gregg,Young,gregg.young@outlook.com,Virginia Beach,Premium Shopper
+5511,CUST_05511,Brian,Graves,brian.graves@yahoo.com,Columbus,In-Store Regular
+5543,CUST_05543,Diane,Sims,diane.sims@gmail.com,Miami,In-Store Regular
+5697,CUST_05697,Jennifer,Williams,jennifer.williams@outlook.com,Nashville,Online Shopper
+5698,CUST_05698,Jeanne,Little,jeanne.little@gmail.com,Omaha,Online Shopper
+5833,CUST_05833,Rose,Gardner,rose.gardner@yahoo.com,Omaha,Budget Shopper
+5890,CUST_05890,Patrick,Durham,patrick.durham@gmail.com,Long Beach,High Value
+5970,CUST_05970,Michael,Jennings,michael.jennings@outlook.com,Houston,Occasional Shopper
+5999,CUST_05999,Brian,Ibarra,brian.ibarra@yahoo.com,Austin,Budget Shopper
+6063,CUST_06063,Angela,Young,angela.young@gmail.com,Philadelphia,Online Shopper
+6086,CUST_06086,Scott,Bradford,scott.bradford@yahoo.com,Fort Worth,Premium Shopper
+6100,CUST_06100,Robert,Nguyen,robert.nguyen@outlook.com,Dallas,Churn Risk
+6177,CUST_06177,Brian,Wu,brian.wu@outlook.com,Oakland,Occasional Shopper
+6185,CUST_06185,David,Mcdaniel,david.mcdaniel@gmail.com,San Francisco,High Value
+6214,CUST_06214,Stacy,Hunter,stacy.hunter@outlook.com,El Paso,Online Shopper
+6289,CUST_06289,Jordan,Jacobs,jordan.jacobs@gmail.com,Nashville,Premium Shopper
+6314,CUST_06314,Whitney,Dennis,whitney.dennis@yahoo.com,Boston,Budget Shopper
+6326,CUST_06326,Andrew,Kelly,andrew.kelly@outlook.com,Chicago,Occasional Shopper
+6513,CUST_06513,Sabrina,Flores,sabrina.flores@outlook.com,Fort Worth,High Value
+6596,CUST_06596,Ashley,Fischer,ashley.fischer@gmail.com,Austin,In-Store Regular
+6602,CUST_06602,Dana,Gregory,dana.gregory@yahoo.com,Milwaukee,First-time Buyer
+6603,CUST_06603,Jared,Miller,jared.miller@gmail.com,Philadelphia,Budget Shopper
+6637,CUST_06637,Erin,Ross,erin.ross@yahoo.com,Virginia Beach,Deal Seeker
+6715,CUST_06715,Angela,Carney,angela.carney@outlook.com,Kansas City,Deal Seeker
+6759,CUST_06759,Patricia,Brown,patricia.brown@yahoo.com,Las Vegas,Deal Seeker
+6814,CUST_06814,Michael,Mcgrath,michael.mcgrath@gmail.com,New York,High Value
+6827,CUST_06827,Alyssa,Figueroa,alyssa.figueroa@outlook.com,Phoenix,Online Shopper
+6862,CUST_06862,Melissa,Ford,melissa.ford@gmail.com,San Antonio,First-time Buyer
+6866,CUST_06866,Kevin,Garcia,kevin.garcia@outlook.com,Dallas,In-Store Regular
+6955,CUST_06955,Samantha,Molina,samantha.molina@outlook.com,San Antonio,High Value
+6979,CUST_06979,Gabriel,Montes,gabriel.montes@yahoo.com,Raleigh,In-Store Regular
+6983,CUST_06983,Margaret,Bell,margaret.bell@gmail.com,Memphis,In-Store Regular
+7030,CUST_07030,Oscar,Williams,oscar.williams@outlook.com,Las Vegas,High Value
+7057,CUST_07057,Todd,Wu,todd.wu@outlook.com,Columbus,Budget Shopper
+7293,CUST_07293,Luke,Gonzalez,luke.gonzalez@outlook.com,Los Angeles,Budget Shopper
+7498,CUST_07498,Michael,Miller,michael.miller@yahoo.com,Boston,Loyal Customer
+7507,CUST_07507,Tanner,Chan,tanner.chan@gmail.com,Phoenix,High Value
+7563,CUST_07563,James,Scott,james.scott@gmail.com,Indianapolis,Premium Shopper
+7588,CUST_07588,Christine,Carrillo,christine.carrillo@yahoo.com,Charlotte,Premium Shopper
+7638,CUST_07638,Curtis,Martin,curtis.martin@gmail.com,Albuquerque,Budget Shopper
+7667,CUST_07667,Timothy,Neal,timothy.neal@outlook.com,Mesa,Churn Risk
+7670,CUST_07670,Carol,Griffin,carol.griffin@gmail.com,Kansas City,High Value
+7714,CUST_07714,Catherine,Lopez,catherine.lopez@gmail.com,Phoenix,Occasional Shopper
+7822,CUST_07822,Joshua,Hayes,joshua.hayes@yahoo.com,Tucson,Online Shopper
+7929,CUST_07929,John,Santiago,john.santiago@yahoo.com,Oakland,First-time Buyer
+8129,CUST_08129,Carolyn,Weaver,carolyn.weaver@outlook.com,Tucson,Churn Risk
+8147,CUST_08147,Patricia,Bailey,patricia.bailey@outlook.com,Houston,First-time Buyer
+8187,CUST_08187,Richard,Davis,richard.davis@outlook.com,Columbus,First-time Buyer
+8192,CUST_08192,Isaac,Gordon,isaac.gordon@yahoo.com,Sacramento,Occasional Shopper
+8282,CUST_08282,Taylor,Johnson,taylor.johnson@yahoo.com,Tucson,Loyal Customer
+8334,CUST_08334,Rebecca,Robertson,rebecca.robertson@outlook.com,Houston,Deal Seeker
+8392,CUST_08392,Joe,Taylor,joe.taylor@yahoo.com,Memphis,Churn Risk
+8397,CUST_08397,Leah,Parker,leah.parker@yahoo.com,Mesa,First-time Buyer
+8492,CUST_08492,Susan,Steele,susan.steele@gmail.com,New Orleans,Budget Shopper
+8612,CUST_08612,Megan,Owens,megan.owens@outlook.com,Memphis,Occasional Shopper
+8647,CUST_08647,Grace,Lee,grace.lee@gmail.com,Philadelphia,First-time Buyer
+8803,CUST_08803,Chelsea,Davis,chelsea.davis@yahoo.com,Columbus,Online Shopper
+8903,CUST_08903,Cynthia,Pearson,cynthia.pearson@outlook.com,Los Angeles,Loyal Customer
+8906,CUST_08906,Andrew,Fields,andrew.fields@gmail.com,Virginia Beach,In-Store Regular
+8915,CUST_08915,Michael,Knox,michael.knox@outlook.com,Indianapolis,Loyal Customer
+8920,CUST_08920,John,Davis,john.davis@outlook.com,Colorado Springs,Online Shopper
+8922,CUST_08922,Steven,Harris,steven.harris@yahoo.com,Seattle,Budget Shopper
+8927,CUST_08927,Terrence,Nguyen,terrence.nguyen@gmail.com,Chicago,Premium Shopper
+9081,CUST_09081,Darius,Thomas,darius.thomas@gmail.com,Arlington,Churn Risk
+9083,CUST_09083,Cindy,Johnson,cindy.johnson@outlook.com,Los Angeles,Online Shopper
+9253,CUST_09253,Adam,Cook,adam.cook@gmail.com,Phoenix,First-time Buyer
+9267,CUST_09267,Sherry,Davis,sherry.davis@yahoo.com,Washington,In-Store Regular
+9309,CUST_09309,Alexander,Brown,alexander.brown@yahoo.com,Colorado Springs,Loyal Customer
+9338,CUST_09338,Thomas,Wyatt,thomas.wyatt@yahoo.com,Raleigh,Occasional Shopper
+9343,CUST_09343,Tracey,Wilcox,tracey.wilcox@yahoo.com,Colorado Springs,Churn Risk
+9465,CUST_09465,Eugene,Gamble,eugene.gamble@yahoo.com,Tampa,Churn Risk
+9485,CUST_09485,Jason,Morris,jason.morris@gmail.com,Tulsa,In-Store Regular
+9509,CUST_09509,Emily,Cervantes,emily.cervantes@gmail.com,Oklahoma City,Churn Risk
+9570,CUST_09570,Ashley,Pollard,ashley.pollard@gmail.com,Philadelphia,In-Store Regular
+9613,CUST_09613,Nicole,Sullivan,nicole.sullivan@outlook.com,Sacramento,Loyal Customer
+9641,CUST_09641,Kristy,Velasquez,kristy.velasquez@outlook.com,Atlanta,First-time Buyer
+9860,CUST_09860,Susan,Schultz,susan.schultz@yahoo.com,San Diego,High Value
+9878,CUST_09878,Austin,Ortiz,austin.ortiz@gmail.com,Oklahoma City,Loyal Customer
+9944,CUST_09944,Mark,Pena,mark.pena@outlook.com,Nashville,Occasional Shopper
+10048,CUST_10048,Kelli,Orozco,kelli.orozco@outlook.com,Tulsa,Online Shopper
+10133,CUST_10133,Mary,Roberts,mary.roberts@outlook.com,Miami,In-Store Regular
+10170,CUST_10170,Ashley,Mcbride,ashley.mcbride@gmail.com,New York,Premium Shopper
+10365,CUST_10365,Karen,Carter,karen.carter@outlook.com,Sacramento,Deal Seeker
+10540,CUST_10540,Jennifer,Perez,jennifer.perez@yahoo.com,Houston,Loyal Customer
+10684,CUST_10684,Nicole,Cooper,nicole.cooper@outlook.com,Raleigh,In-Store Regular
+10709,CUST_10709,Stephanie,Ross,stephanie.ross@gmail.com,New Orleans,Online Shopper
+10775,CUST_10775,Dalton,Becker,dalton.becker@outlook.com,Houston,In-Store Regular
+10890,CUST_10890,Steven,Vance,steven.vance@yahoo.com,Detroit,High Value
+10943,CUST_10943,Jesse,Hernandez,jesse.hernandez@yahoo.com,Arlington,Loyal Customer
+11025,CUST_11025,Nancy,Hutchinson,nancy.hutchinson@yahoo.com,Oklahoma City,Churn Risk
+11077,CUST_11077,Sharon,Walton,sharon.walton@gmail.com,Detroit,Online Shopper
+11135,CUST_11135,Jacqueline,Mclaughlin,jacqueline.mclaughlin@outlook.com,Fresno,Churn Risk
+11169,CUST_11169,Zachary,Dixon,zachary.dixon@gmail.com,El Paso,Premium Shopper
+11183,CUST_11183,Terri,Lee,terri.lee@gmail.com,Tulsa,Premium Shopper
+11249,CUST_11249,David,Harrington,david.harrington@outlook.com,Oklahoma City,In-Store Regular
+11265,CUST_11265,Alexander,Lewis,alexander.lewis@yahoo.com,Indianapolis,Premium Shopper
+11401,CUST_11401,Roberto,Jarvis,roberto.jarvis@outlook.com,Minneapolis,Churn Risk
+11458,CUST_11458,Nathan,Hogan,nathan.hogan@yahoo.com,San Jose,Churn Risk
+11517,CUST_11517,David,Hooper,david.hooper@yahoo.com,Washington,Budget Shopper
+11554,CUST_11554,Marilyn,Carroll,marilyn.carroll@yahoo.com,Las Vegas,Premium Shopper
+11679,CUST_11679,Deanna,Mason,deanna.mason@gmail.com,Tucson,In-Store Regular
+11756,CUST_11756,Valerie,Walker,valerie.walker@gmail.com,San Jose,Deal Seeker
+11857,CUST_11857,Robert,Williams,robert.williams@gmail.com,Albuquerque,Loyal Customer
+12195,CUST_12195,Donna,Black,donna.black@outlook.com,Washington,First-time Buyer
+12231,CUST_12231,Brian,Hunter,brian.hunter@outlook.com,Charlotte,Online Shopper
+12378,CUST_12378,Linda,King,linda.king@outlook.com,Charlotte,Deal Seeker
+12429,CUST_12429,Tina,Newton,tina.newton@outlook.com,Memphis,Churn Risk
+12441,CUST_12441,Kathleen,Johnson,kathleen.johnson@yahoo.com,Washington,Budget Shopper
+12445,CUST_12445,Katelyn,Johnson,katelyn.johnson@yahoo.com,Washington,Deal Seeker
+12489,CUST_12489,Samantha,Carter,samantha.carter@outlook.com,Fresno,Occasional Shopper
+12545,CUST_12545,Daniel,Williams,daniel.williams@outlook.com,Seattle,Online Shopper
+12710,CUST_12710,Chad,Ford,chad.ford@yahoo.com,El Paso,Occasional Shopper
+12835,CUST_12835,Felicia,Young,felicia.young@outlook.com,Memphis,Premium Shopper
+12882,CUST_12882,Ashley,Francis,ashley.francis@gmail.com,Colorado Springs,Occasional Shopper
+12909,CUST_12909,Kenneth,Kennedy,kenneth.kennedy@gmail.com,Portland,In-Store Regular
+12962,CUST_12962,Melissa,Griffin,melissa.griffin@yahoo.com,Tulsa,Premium Shopper
+13069,CUST_13069,Tiffany,Frank,tiffany.frank@gmail.com,Louisville,Premium Shopper
+13180,CUST_13180,Cynthia,Holder,cynthia.holder@outlook.com,Seattle,First-time Buyer
+13348,CUST_13348,Anthony,Mcintosh,anthony.mcintosh@outlook.com,Nashville,High Value
+13355,CUST_13355,Jason,Mason,jason.mason@yahoo.com,Memphis,Deal Seeker
+13369,CUST_13369,Bradley,Goodman,bradley.goodman@outlook.com,Virginia Beach,Deal Seeker
+13452,CUST_13452,Pamela,Brown,pamela.brown@gmail.com,Baltimore,Churn Risk
+13604,CUST_13604,Michelle,Coleman,michelle.coleman@yahoo.com,Fresno,Deal Seeker
+13675,CUST_13675,Emily,George,emily.george@yahoo.com,Nashville,Budget Shopper
+13694,CUST_13694,Ryan,Clark,ryan.clark@gmail.com,Albuquerque,Budget Shopper
+13828,CUST_13828,Lauren,Becker,lauren.becker@outlook.com,Oakland,Loyal Customer
+13993,CUST_13993,Norman,Parker,norman.parker@yahoo.com,Miami,Premium Shopper
+14142,CUST_14142,Walter,Montgomery,walter.montgomery@outlook.com,Phoenix,Budget Shopper
+14285,CUST_14285,Nicholas,Wolf,nicholas.wolf@gmail.com,Miami,Churn Risk
+14310,CUST_14310,James,Hamilton,james.hamilton@gmail.com,Philadelphia,In-Store Regular
+14354,CUST_14354,Jordan,Williams,jordan.williams@yahoo.com,Tucson,In-Store Regular
+14656,CUST_14656,George,Casey,george.casey@outlook.com,Tampa,In-Store Regular
+14673,CUST_14673,Douglas,Reid,douglas.reid@yahoo.com,Columbus,Premium Shopper
+14786,CUST_14786,Ashley,Ferrell,ashley.ferrell@yahoo.com,San Francisco,Budget Shopper
+14842,CUST_14842,Mark,Green,mark.green@gmail.com,Mesa,First-time Buyer
+15117,CUST_15117,Sarah,Sanchez,sarah.sanchez@yahoo.com,Long Beach,Premium Shopper
+15356,CUST_15356,Jacqueline,Mendoza,jacqueline.mendoza@outlook.com,Portland,Deal Seeker
+15378,CUST_15378,Christina,Pearson,christina.pearson@outlook.com,Fresno,Online Shopper
+15395,CUST_15395,Brett,Fox,brett.fox@yahoo.com,Atlanta,Deal Seeker
+15564,CUST_15564,Kimberly,Bradshaw,kimberly.bradshaw@outlook.com,Baltimore,Loyal Customer
+15629,CUST_15629,Lisa,Smith,lisa.smith@gmail.com,Houston,Loyal Customer
+15700,CUST_15700,Christina,Parrish,christina.parrish@gmail.com,Arlington,Loyal Customer
+15703,CUST_15703,Todd,Ramirez,todd.ramirez@outlook.com,Mesa,In-Store Regular
+15746,CUST_15746,Nicole,Scott,nicole.scott@outlook.com,Kansas City,Churn Risk
+15820,CUST_15820,Jane,Lee,jane.lee@outlook.com,Mesa,Budget Shopper
+15950,CUST_15950,Robert,Cervantes,robert.cervantes@outlook.com,Dallas,Loyal Customer
+15957,CUST_15957,Ann,Chang,ann.chang@gmail.com,Boston,Occasional Shopper
+16150,CUST_16150,Tiffany,Ruiz,tiffany.ruiz@outlook.com,Long Beach,Occasional Shopper
+16189,CUST_16189,Jessica,King,jessica.king@gmail.com,Colorado Springs,Deal Seeker
+16192,CUST_16192,Benjamin,Thomas,benjamin.thomas@yahoo.com,Houston,In-Store Regular
+16236,CUST_16236,Kathryn,Zamora,kathryn.zamora@outlook.com,San Jose,In-Store Regular
+16238,CUST_16238,Jacqueline,Wilson,jacqueline.wilson@gmail.com,Raleigh,Budget Shopper
+16317,CUST_16317,Gabriel,Ray,gabriel.ray@outlook.com,El Paso,Budget Shopper
+16327,CUST_16327,James,Hahn,james.hahn@gmail.com,Tulsa,Online Shopper
+16423,CUST_16423,Ashley,Franklin,ashley.franklin@yahoo.com,El Paso,In-Store Regular
+16438,CUST_16438,Sheila,Young,sheila.young@yahoo.com,Omaha,Occasional Shopper
+16472,CUST_16472,Colleen,Brooks,colleen.brooks@yahoo.com,San Diego,Churn Risk
+16532,CUST_16532,Stephanie,Stevens,stephanie.stevens@gmail.com,Albuquerque,Churn Risk
+16534,CUST_16534,Blake,Fernandez,blake.fernandez@outlook.com,San Antonio,High Value
+16565,CUST_16565,Aaron,Klein,aaron.klein@yahoo.com,New Orleans,First-time Buyer
+16622,CUST_16622,Ashley,Banks,ashley.banks@outlook.com,Charlotte,Churn Risk
+16633,CUST_16633,Thomas,Underwood,thomas.underwood@outlook.com,Las Vegas,High Value
+16932,CUST_16932,Lisa,Wright,lisa.wright@gmail.com,Oklahoma City,Deal Seeker
+17040,CUST_17040,Jessica,Harris,jessica.harris@outlook.com,Memphis,Online Shopper
+17132,CUST_17132,Tammy,Carr,tammy.carr@yahoo.com,Fort Worth,Budget Shopper
+17150,CUST_17150,Carolyn,Lee,carolyn.lee@gmail.com,Colorado Springs,Premium Shopper
+17285,CUST_17285,Jennifer,Ruiz,jennifer.ruiz@yahoo.com,Tampa,In-Store Regular
+17332,CUST_17332,Ashley,Carr,ashley.carr@yahoo.com,Nashville,Online Shopper
+17491,CUST_17491,Mark,Brewer,mark.brewer@gmail.com,Colorado Springs,Occasional Shopper
+17493,CUST_17493,Kristen,Reed,kristen.reed@gmail.com,Las Vegas,Loyal Customer
+17812,CUST_17812,Robin,Boyd,robin.boyd@gmail.com,Miami,In-Store Regular
+17848,CUST_17848,Casey,Russell,casey.russell@gmail.com,Detroit,Loyal Customer
+17940,CUST_17940,Zachary,Edwards,zachary.edwards@outlook.com,Atlanta,First-time Buyer
+18082,CUST_18082,Michelle,Harrison,michelle.harrison@gmail.com,Memphis,Churn Risk
+18170,CUST_18170,Cynthia,Dunn,cynthia.dunn@gmail.com,Boston,Online Shopper
+18173,CUST_18173,Mark,Martin,mark.martin@outlook.com,Minneapolis,Loyal Customer
+18241,CUST_18241,Deborah,Owens,deborah.owens@gmail.com,Washington,Premium Shopper
+18260,CUST_18260,Daniel,Mcclure,daniel.mcclure@yahoo.com,Kansas City,High Value
+18302,CUST_18302,Elizabeth,Durham,elizabeth.durham@outlook.com,Austin,Online Shopper
+18329,CUST_18329,John,Rice,john.rice@outlook.com,Tulsa,Churn Risk
+18584,CUST_18584,Christopher,Salazar,christopher.salazar@outlook.com,Fort Worth,High Value
+18614,CUST_18614,Sean,Martinez,sean.martinez@gmail.com,New Orleans,High Value
+18649,CUST_18649,Matthew,Rose,matthew.rose@yahoo.com,Arlington,Budget Shopper
+18688,CUST_18688,Jessica,Collier,jessica.collier@yahoo.com,Tucson,In-Store Regular
+18841,CUST_18841,Kim,Vaughn,kim.vaughn@gmail.com,Mesa,Churn Risk
+18853,CUST_18853,Stephen,Hayes,stephen.hayes@outlook.com,Minneapolis,Occasional Shopper
+18863,CUST_18863,Amber,Ross,amber.ross@gmail.com,Baltimore,Deal Seeker
+18886,CUST_18886,Christopher,Lewis,christopher.lewis@yahoo.com,Atlanta,Deal Seeker
+19102,CUST_19102,Sara,Price,sara.price@outlook.com,Los Angeles,Budget Shopper
+19150,CUST_19150,Katrina,Weaver,katrina.weaver@outlook.com,Washington,First-time Buyer
+19173,CUST_19173,Bradley,Carlson,bradley.carlson@yahoo.com,Houston,Churn Risk
+19185,CUST_19185,Pamela,Green,pamela.green@gmail.com,Minneapolis,In-Store Regular
+19204,CUST_19204,Sarah,Smith,sarah.smith@yahoo.com,San Diego,Deal Seeker
+19254,CUST_19254,Rebecca,Adams,rebecca.adams@outlook.com,Dallas,Online Shopper
+19269,CUST_19269,Robert,Vargas,robert.vargas@outlook.com,San Jose,Online Shopper
+19290,CUST_19290,Tina,Moore,tina.moore@outlook.com,Boston,Occasional Shopper
+19365,CUST_19365,Keith,Lewis,keith.lewis@yahoo.com,Washington,Online Shopper
+19414,CUST_19414,Cristian,Jennings,cristian.jennings@yahoo.com,Detroit,First-time Buyer
+19419,CUST_19419,Rachel,Perez,rachel.perez@outlook.com,Houston,Online Shopper
+19495,CUST_19495,Angela,Smith,angela.smith@gmail.com,Baltimore,In-Store Regular
+19502,CUST_19502,Patrick,Rodriguez,patrick.rodriguez@gmail.com,Memphis,Budget Shopper
+19533,CUST_19533,Sergio,Johnson,sergio.johnson@gmail.com,Washington,Premium Shopper
+19686,CUST_19686,Teresa,Burnett,teresa.burnett@gmail.com,Memphis,First-time Buyer
+19799,CUST_19799,Douglas,Hunter,douglas.hunter@yahoo.com,Oklahoma City,Loyal Customer
+19935,CUST_19935,Matthew,Howell,matthew.howell@yahoo.com,Atlanta,Churn Risk
+19951,CUST_19951,Eric,Cruz,eric.cruz@gmail.com,Las Vegas,Churn Risk
+19975,CUST_19975,David,Kemp,david.kemp@yahoo.com,El Paso,In-Store Regular
+19978,CUST_19978,Thomas,Cantu,thomas.cantu@outlook.com,Atlanta,High Value
+20082,CUST_20082,Erika,Rhodes,erika.rhodes@outlook.com,Miami,In-Store Regular
+20092,CUST_20092,Scott,Schwartz,scott.schwartz@gmail.com,Las Vegas,In-Store Regular
+20235,CUST_20235,Lisa,Mccullough,lisa.mccullough@yahoo.com,Colorado Springs,Churn Risk
+20363,CUST_20363,Stacey,Bell,stacey.bell@gmail.com,Fort Worth,Churn Risk
+20369,CUST_20369,Gregory,Johnson,gregory.johnson@gmail.com,Portland,Deal Seeker
+20511,CUST_20511,Pamela,Anderson,pamela.anderson@outlook.com,Charlotte,Occasional Shopper
+20616,CUST_20616,Allison,Campbell,allison.campbell@yahoo.com,Jacksonville,In-Store Regular
+20731,CUST_20731,Christopher,Brown,christopher.brown@yahoo.com,San Diego,Loyal Customer
+20769,CUST_20769,Courtney,Rivera,courtney.rivera@gmail.com,Tucson,Occasional Shopper
+20931,CUST_20931,Whitney,Barron,whitney.barron@yahoo.com,Raleigh,In-Store Regular
+20935,CUST_20935,Jennifer,Shaw,jennifer.shaw@gmail.com,Omaha,In-Store Regular
+21035,CUST_21035,Daniel,Hogan,daniel.hogan@gmail.com,Omaha,High Value
+21038,CUST_21038,Lisa,Bond,lisa.bond@gmail.com,Tampa,Premium Shopper
+21042,CUST_21042,Thomas,Thornton,thomas.thornton@yahoo.com,Sacramento,Premium Shopper
+21081,CUST_21081,Kimberly,Jones,kimberly.jones@gmail.com,Tucson,Occasional Shopper
+21134,CUST_21134,Eileen,Dunn,eileen.dunn@gmail.com,Virginia Beach,In-Store Regular
+21137,CUST_21137,Brittany,Ochoa,brittany.ochoa@outlook.com,Tulsa,Budget Shopper
+21203,CUST_21203,Carla,Wells,carla.wells@yahoo.com,Memphis,Budget Shopper
+21265,CUST_21265,Crystal,Hanson,crystal.hanson@yahoo.com,Fort Worth,First-time Buyer
+21363,CUST_21363,Larry,Munoz,larry.munoz@yahoo.com,Philadelphia,First-time Buyer
+21480,CUST_21480,David,Montgomery,david.montgomery@gmail.com,Denver,Churn Risk
+21496,CUST_21496,Edward,Oliver,edward.oliver@gmail.com,Oakland,Premium Shopper
+21567,CUST_21567,Matthew,Rogers,matthew.rogers@outlook.com,Atlanta,Online Shopper
+21573,CUST_21573,Bruce,Lee,bruce.lee@outlook.com,Chicago,High Value
+21585,CUST_21585,James,Terrell,james.terrell@gmail.com,Indianapolis,Deal Seeker
+21697,CUST_21697,Jordan,Kim,jordan.kim@outlook.com,Arlington,Churn Risk
+21710,CUST_21710,Michelle,King,michelle.king@yahoo.com,Kansas City,Deal Seeker
+21925,CUST_21925,Catherine,Harris,catherine.harris@yahoo.com,Phoenix,First-time Buyer
+21997,CUST_21997,Micheal,Rodgers,micheal.rodgers@yahoo.com,Omaha,Premium Shopper
+22052,CUST_22052,Connor,Lindsey,connor.lindsey@gmail.com,Tulsa,Deal Seeker
+22122,CUST_22122,Bob,Wall,bob.wall@outlook.com,Oklahoma City,Premium Shopper
+22250,CUST_22250,Megan,Sanchez,megan.sanchez@yahoo.com,Baltimore,Occasional Shopper
+22311,CUST_22311,Daniel,Harris,daniel.harris@yahoo.com,Louisville,Loyal Customer
+22351,CUST_22351,Jeffrey,Mcbride,jeffrey.mcbride@yahoo.com,Tulsa,First-time Buyer
+22372,CUST_22372,Kayla,Knight,kayla.knight@outlook.com,Milwaukee,In-Store Regular
+22590,CUST_22590,Brittany,Griffin,brittany.griffin@outlook.com,San Jose,Online Shopper
+22630,CUST_22630,Brittany,Hernandez,brittany.hernandez@yahoo.com,Fort Worth,Churn Risk
+22657,CUST_22657,Melissa,Moore,melissa.moore@yahoo.com,Houston,Online Shopper
+22735,CUST_22735,Lindsey,Coleman,lindsey.coleman@yahoo.com,Jacksonville,Loyal Customer
+22870,CUST_22870,Darren,Patterson,darren.patterson@gmail.com,Washington,Loyal Customer
+22974,CUST_22974,Zachary,Harrell,zachary.harrell@outlook.com,Atlanta,In-Store Regular
+23024,CUST_23024,Veronica,Williamson,veronica.williamson@yahoo.com,Long Beach,Churn Risk
+23034,CUST_23034,Debra,Rodriguez,debra.rodriguez@outlook.com,Fort Worth,Online Shopper
+23346,CUST_23346,Christine,Martinez,christine.martinez@yahoo.com,Baltimore,In-Store Regular
+23387,CUST_23387,April,Miller,april.miller@gmail.com,Boston,Occasional Shopper
+23502,CUST_23502,Brittney,Roberson,brittney.roberson@gmail.com,Detroit,High Value
+23673,CUST_23673,Mariah,Norman,mariah.norman@gmail.com,Boston,Loyal Customer
+23683,CUST_23683,Lori,Kelly,lori.kelly@yahoo.com,San Antonio,Loyal Customer
+23700,CUST_23700,John,Martin,john.martin@gmail.com,Dallas,Occasional Shopper
+23730,CUST_23730,Samantha,Hernandez,samantha.hernandez@yahoo.com,Baltimore,Premium Shopper
+23756,CUST_23756,David,Bishop,david.bishop@yahoo.com,Miami,Loyal Customer
+23910,CUST_23910,Daniel,Mason,daniel.mason@yahoo.com,Dallas,Premium Shopper
+24122,CUST_24122,Michael,Campbell,michael.campbell@outlook.com,Minneapolis,Premium Shopper
+24303,CUST_24303,Leah,Davidson,leah.davidson@gmail.com,Albuquerque,Premium Shopper
+24581,CUST_24581,Jessica,Gordon,jessica.gordon@yahoo.com,Tulsa,Occasional Shopper
+24616,CUST_24616,David,Mejia,david.mejia@yahoo.com,Fort Worth,First-time Buyer
+24626,CUST_24626,Andrew,Hodge,andrew.hodge@yahoo.com,San Francisco,High Value
+24670,CUST_24670,William,Camacho,william.camacho@gmail.com,Seattle,High Value
+24820,CUST_24820,Calvin,Hughes,calvin.hughes@gmail.com,El Paso,High Value
+24877,CUST_24877,Patrick,Scott,patrick.scott@outlook.com,Fort Worth,Occasional Shopper
+25029,CUST_25029,Kimberly,Roman,kimberly.roman@yahoo.com,New York,In-Store Regular
+25062,CUST_25062,Barbara,Sloan,barbara.sloan@gmail.com,Las Vegas,Online Shopper
+25256,CUST_25256,David,Gonzalez,david.gonzalez@outlook.com,Tucson,Loyal Customer
+25290,CUST_25290,Stacy,Bradley,stacy.bradley@outlook.com,Indianapolis,Online Shopper
+25364,CUST_25364,Cindy,Thomas,cindy.thomas@gmail.com,Long Beach,Churn Risk
+25396,CUST_25396,Brianna,Berg,brianna.berg@gmail.com,San Francisco,Deal Seeker
+25454,CUST_25454,Susan,Brown,susan.brown@gmail.com,Omaha,Churn Risk
+25466,CUST_25466,Courtney,Stevens,courtney.stevens@outlook.com,Oklahoma City,Occasional Shopper
+25467,CUST_25467,Kevin,Bailey,kevin.bailey@yahoo.com,Tampa,Budget Shopper
+25488,CUST_25488,Angela,Hodges,angela.hodges@yahoo.com,Fresno,First-time Buyer
+25503,CUST_25503,Anna,Thompson,anna.thompson@gmail.com,Columbus,Online Shopper
+25551,CUST_25551,Richard,Rasmussen,richard.rasmussen@outlook.com,Chicago,Online Shopper
+25600,CUST_25600,Brian,Kelly,brian.kelly@yahoo.com,Louisville,Deal Seeker
+25622,CUST_25622,Cathy,Stewart,cathy.stewart@gmail.com,Indianapolis,High Value
+25645,CUST_25645,Charles,Werner,charles.werner@yahoo.com,Miami,Loyal Customer
+25666,CUST_25666,Jennifer,Hardy,jennifer.hardy@outlook.com,San Francisco,Online Shopper
+25675,CUST_25675,Margaret,Erickson,margaret.erickson@gmail.com,Arlington,High Value
+25765,CUST_25765,Daniel,Robinson,daniel.robinson@yahoo.com,San Antonio,First-time Buyer
+25772,CUST_25772,Laura,Hernandez,laura.hernandez@gmail.com,Tucson,Deal Seeker
+25796,CUST_25796,Christopher,Phelps,christopher.phelps@gmail.com,Tampa,Deal Seeker
+25929,CUST_25929,Thomas,Baker,thomas.baker@gmail.com,Denver,Budget Shopper
+26006,CUST_26006,Andrew,Salazar,andrew.salazar@gmail.com,Tucson,Online Shopper
+26078,CUST_26078,Nathaniel,Vasquez,nathaniel.vasquez@outlook.com,Austin,Online Shopper
+26154,CUST_26154,Jennifer,Lawson,jennifer.lawson@gmail.com,Phoenix,High Value
+26194,CUST_26194,Renee,Foster,renee.foster@gmail.com,Arlington,In-Store Regular
+26211,CUST_26211,Darren,Edwards,darren.edwards@yahoo.com,Milwaukee,First-time Buyer
+26216,CUST_26216,Michael,Cook,michael.cook@yahoo.com,Indianapolis,In-Store Regular
+26263,CUST_26263,Kara,Hill,kara.hill@gmail.com,San Francisco,Premium Shopper
+26284,CUST_26284,Jamie,Kaiser,jamie.kaiser@outlook.com,Charlotte,Loyal Customer
+26331,CUST_26331,John,Aguirre,john.aguirre@outlook.com,Columbus,Deal Seeker
+26397,CUST_26397,Michael,Mann,michael.mann@gmail.com,Oakland,In-Store Regular
+26441,CUST_26441,Melissa,Cunningham,melissa.cunningham@yahoo.com,Philadelphia,Budget Shopper
+26488,CUST_26488,Erik,Campbell,erik.campbell@gmail.com,Indianapolis,Online Shopper
+26496,CUST_26496,Donald,Owens,donald.owens@outlook.com,San Diego,Loyal Customer
+26775,CUST_26775,David,Graves,david.graves@outlook.com,Sacramento,First-time Buyer
+26799,CUST_26799,Patricia,Bauer,patricia.bauer@gmail.com,Austin,First-time Buyer
+26991,CUST_26991,Dale,Robinson,dale.robinson@gmail.com,Sacramento,Loyal Customer
+27075,CUST_27075,Haley,Best,haley.best@gmail.com,New York,In-Store Regular
+27107,CUST_27107,Lisa,Brewer,lisa.brewer@gmail.com,Mesa,Online Shopper
+27136,CUST_27136,Jose,Roberts,jose.roberts@outlook.com,El Paso,High Value
+27242,CUST_27242,Christopher,Clarke,christopher.clarke@yahoo.com,Tucson,Budget Shopper
+27429,CUST_27429,Shawn,Lane,shawn.lane@yahoo.com,Fort Worth,Churn Risk
+27915,CUST_27915,Patricia,Henry,patricia.henry@outlook.com,Virginia Beach,Premium Shopper
+28008,CUST_28008,Kelly,Jones,kelly.jones@yahoo.com,Philadelphia,High Value
+28045,CUST_28045,Brian,Holmes,brian.holmes@gmail.com,Indianapolis,First-time Buyer
+28055,CUST_28055,Kelsey,Powell,kelsey.powell@gmail.com,Las Vegas,Churn Risk
+28056,CUST_28056,Nicholas,Lyons,nicholas.lyons@outlook.com,Charlotte,Premium Shopper
+28090,CUST_28090,Joshua,Hill,joshua.hill@yahoo.com,Omaha,Occasional Shopper
+28271,CUST_28271,Brandon,Edwards,brandon.edwards@outlook.com,New Orleans,Budget Shopper
+28328,CUST_28328,John,Flores,john.flores@gmail.com,San Francisco,First-time Buyer
+28379,CUST_28379,Billy,Mitchell,billy.mitchell@yahoo.com,Atlanta,Churn Risk
+28536,CUST_28536,Carl,Salazar,carl.salazar@gmail.com,Dallas,Online Shopper
+28554,CUST_28554,Brandon,Wiley,brandon.wiley@gmail.com,Phoenix,First-time Buyer
+28675,CUST_28675,Joseph,Cruz,joseph.cruz@gmail.com,Philadelphia,High Value
+28901,CUST_28901,Jenny,Smith,jenny.smith@gmail.com,Jacksonville,High Value
+28942,CUST_28942,Jeanne,Page,jeanne.page@yahoo.com,Tampa,Loyal Customer
+28955,CUST_28955,Suzanne,Burgess,suzanne.burgess@gmail.com,San Antonio,High Value
+29033,CUST_29033,Kimberly,Smith,kimberly.smith@yahoo.com,Atlanta,Deal Seeker
+29035,CUST_29035,Benjamin,Hicks,benjamin.hicks@outlook.com,Nashville,Deal Seeker
+29285,CUST_29285,Sandra,Ho,sandra.ho@gmail.com,Austin,Premium Shopper
+29301,CUST_29301,James,Fields,james.fields@yahoo.com,Boston,Deal Seeker
+29306,CUST_29306,William,Miles,william.miles@gmail.com,Nashville,Premium Shopper
+29497,CUST_29497,Jamie,Cummings,jamie.cummings@yahoo.com,Raleigh,In-Store Regular
+29569,CUST_29569,Sandra,Scott,sandra.scott@gmail.com,Washington,Deal Seeker
+29681,CUST_29681,Angela,Weber,angela.weber@gmail.com,Memphis,High Value
+29698,CUST_29698,Jason,Reynolds,jason.reynolds@yahoo.com,Virginia Beach,Loyal Customer
+29731,CUST_29731,Emily,Johnson,emily.johnson@outlook.com,San Diego,Premium Shopper
+29940,CUST_29940,Deanna,Meyer,deanna.meyer@yahoo.com,Sacramento,Deal Seeker
+30003,CUST_30003,Richard,Mccall,richard.mccall@outlook.com,Fort Worth,High Value
+30097,CUST_30097,Nicholas,Trevino,nicholas.trevino@yahoo.com,Colorado Springs,First-time Buyer
+30261,CUST_30261,Randy,Mitchell,randy.mitchell@gmail.com,Indianapolis,Premium Shopper
+30400,CUST_30400,Scott,Lewis,scott.lewis@gmail.com,Memphis,Loyal Customer
+30437,CUST_30437,Nathan,Bauer,nathan.bauer@gmail.com,Louisville,In-Store Regular
+30631,CUST_30631,George,Mcneil,george.mcneil@outlook.com,San Francisco,High Value
+30636,CUST_30636,Charlotte,Anderson,charlotte.anderson@yahoo.com,Kansas City,In-Store Regular
+30769,CUST_30769,Judy,Owens,judy.owens@outlook.com,Phoenix,First-time Buyer
+30827,CUST_30827,Patricia,Orozco,patricia.orozco@outlook.com,San Diego,Churn Risk
+30832,CUST_30832,William,Garcia,william.garcia@gmail.com,Sacramento,First-time Buyer
+30836,CUST_30836,Morgan,Mccoy,morgan.mccoy@gmail.com,San Antonio,Online Shopper
+31057,CUST_31057,Lauren,Clark,lauren.clark@outlook.com,Virginia Beach,Churn Risk
+31113,CUST_31113,James,Kennedy,james.kennedy@yahoo.com,Louisville,Online Shopper
+31127,CUST_31127,Jessica,Johnson,jessica.johnson@gmail.com,Jacksonville,Budget Shopper
+31161,CUST_31161,Christopher,Shelton,christopher.shelton@gmail.com,Atlanta,First-time Buyer
+31192,CUST_31192,Danny,Pham,danny.pham@gmail.com,Houston,High Value
+31224,CUST_31224,Thomas,Alvarado,thomas.alvarado@yahoo.com,Columbus,Deal Seeker
+31249,CUST_31249,Sarah,Middleton,sarah.middleton@yahoo.com,Mesa,Occasional Shopper
+31345,CUST_31345,Ricardo,Sampson,ricardo.sampson@gmail.com,Baltimore,Premium Shopper
+31357,CUST_31357,Michael,Mccullough,michael.mccullough@outlook.com,Virginia Beach,Premium Shopper
+31408,CUST_31408,April,Hebert,april.hebert@yahoo.com,El Paso,Occasional Shopper
+31441,CUST_31441,Benjamin,Morris,benjamin.morris@gmail.com,Albuquerque,In-Store Regular
+31457,CUST_31457,Kristin,Stafford,kristin.stafford@outlook.com,Austin,Online Shopper
+31688,CUST_31688,Monica,Meza,monica.meza@gmail.com,Los Angeles,Budget Shopper
+31729,CUST_31729,Maria,Morton,maria.morton@gmail.com,Albuquerque,In-Store Regular
+31827,CUST_31827,Matthew,Perez,matthew.perez@yahoo.com,Arlington,In-Store Regular
+31835,CUST_31835,Brian,Gibson,brian.gibson@gmail.com,Seattle,Churn Risk
+31856,CUST_31856,Rebecca,Stone,rebecca.stone@gmail.com,Colorado Springs,Occasional Shopper
+31887,CUST_31887,Troy,Hernandez,troy.hernandez@yahoo.com,Tulsa,Loyal Customer
+31903,CUST_31903,Brittany,Friedman,brittany.friedman@outlook.com,Virginia Beach,First-time Buyer
+31924,CUST_31924,Ryan,Brewer,ryan.brewer@gmail.com,Omaha,In-Store Regular
+31967,CUST_31967,Brittney,Brown,brittney.brown@outlook.com,Fort Worth,Online Shopper
+31968,CUST_31968,Kimberly,Lewis,kimberly.lewis@outlook.com,San Diego,Budget Shopper
+32018,CUST_32018,Mary,Rodriguez,mary.rodriguez@outlook.com,Seattle,Budget Shopper
+32086,CUST_32086,Jennifer,Smith,jennifer.smith@gmail.com,Boston,Online Shopper
+32224,CUST_32224,Chase,Bailey,chase.bailey@yahoo.com,Atlanta,Online Shopper
+32311,CUST_32311,Diane,Glover,diane.glover@yahoo.com,Mesa,In-Store Regular
+32631,CUST_32631,Dawn,Webster,dawn.webster@gmail.com,New York,Churn Risk
+32766,CUST_32766,Steven,Barton,steven.barton@outlook.com,Las Vegas,Occasional Shopper
+32845,CUST_32845,Rhonda,Tran,rhonda.tran@yahoo.com,Seattle,Budget Shopper
+32873,CUST_32873,Kimberly,Long,kimberly.long@yahoo.com,Jacksonville,Deal Seeker
+32896,CUST_32896,Karen,Navarro,karen.navarro@gmail.com,Los Angeles,Churn Risk
+32911,CUST_32911,Martha,Mathis,martha.mathis@gmail.com,Virginia Beach,Churn Risk
+32928,CUST_32928,Jeffrey,Neal,jeffrey.neal@yahoo.com,Tulsa,Online Shopper
+32982,CUST_32982,Amanda,Lee,amanda.lee@yahoo.com,Sacramento,Deal Seeker
+33053,CUST_33053,Phillip,Smith,phillip.smith@outlook.com,Memphis,High Value
+33081,CUST_33081,Glenn,Waters,glenn.waters@yahoo.com,New York,First-time Buyer
+33085,CUST_33085,David,Sutton,david.sutton@outlook.com,Charlotte,Budget Shopper
+33097,CUST_33097,Erin,Ward,erin.ward@gmail.com,Indianapolis,High Value
+33098,CUST_33098,Vanessa,Richmond,vanessa.richmond@outlook.com,Omaha,First-time Buyer
+33124,CUST_33124,Katelyn,Howe,katelyn.howe@gmail.com,Boston,Loyal Customer
+33174,CUST_33174,Amy,Scott,amy.scott@outlook.com,Albuquerque,Deal Seeker
+33185,CUST_33185,Sean,Lopez,sean.lopez@outlook.com,New Orleans,Deal Seeker
+33244,CUST_33244,Nancy,Wagner,nancy.wagner@yahoo.com,Kansas City,Churn Risk
+33248,CUST_33248,Christine,Curtis,christine.curtis@outlook.com,Jacksonville,High Value
+33268,CUST_33268,Michael,Solomon,michael.solomon@outlook.com,Philadelphia,Budget Shopper
+33270,CUST_33270,Danny,Wilkerson,danny.wilkerson@yahoo.com,Milwaukee,Occasional Shopper
+33393,CUST_33393,Christopher,Meyer,christopher.meyer@gmail.com,Sacramento,High Value
+33565,CUST_33565,Shannon,Hernandez,shannon.hernandez@outlook.com,Seattle,Loyal Customer
+33681,CUST_33681,Alec,Schroeder,alec.schroeder@outlook.com,Nashville,Online Shopper
+33712,CUST_33712,Patrick,Robinson,patrick.robinson@yahoo.com,Detroit,Deal Seeker
+33731,CUST_33731,Kristin,Martinez,kristin.martinez@yahoo.com,Oklahoma City,Occasional Shopper
+33780,CUST_33780,Crystal,Carr,crystal.carr@yahoo.com,Raleigh,Premium Shopper
+33803,CUST_33803,Kevin,Hale,kevin.hale@gmail.com,Los Angeles,Budget Shopper
+34167,CUST_34167,Joshua,Andrews,joshua.andrews@yahoo.com,Albuquerque,First-time Buyer
+34324,CUST_34324,Sarah,Stanton,sarah.stanton@gmail.com,Baltimore,Online Shopper
+34329,CUST_34329,Eric,Castillo,eric.castillo@outlook.com,Washington,Loyal Customer
+34344,CUST_34344,Karen,Martinez,karen.martinez@yahoo.com,Fort Worth,Premium Shopper
+34345,CUST_34345,Emily,Clark,emily.clark@yahoo.com,Virginia Beach,Occasional Shopper
+34490,CUST_34490,Monica,Walker,monica.walker@yahoo.com,Detroit,Premium Shopper
+34560,CUST_34560,Denise,Mata,denise.mata@yahoo.com,Las Vegas,Premium Shopper
+34623,CUST_34623,Michael,Kelly,michael.kelly@gmail.com,Louisville,Online Shopper
+34640,CUST_34640,Taylor,Gregory,taylor.gregory@yahoo.com,Virginia Beach,Loyal Customer
+34720,CUST_34720,Rhonda,Deleon,rhonda.deleon@outlook.com,Indianapolis,Deal Seeker
+34828,CUST_34828,Jamie,Powers,jamie.powers@outlook.com,Jacksonville,Loyal Customer
+34849,CUST_34849,Karen,Jenkins,karen.jenkins@outlook.com,El Paso,Online Shopper
+34852,CUST_34852,Sonya,Ortega,sonya.ortega@gmail.com,Sacramento,Budget Shopper
+34925,CUST_34925,Jennifer,Brown,jennifer.brown@outlook.com,Nashville,Budget Shopper
+34971,CUST_34971,Taylor,Miller,taylor.miller@outlook.com,Phoenix,Occasional Shopper
+35000,CUST_35000,Samuel,Harris,samuel.harris@outlook.com,Oklahoma City,Churn Risk
+35049,CUST_35049,Joshua,Sexton,joshua.sexton@yahoo.com,Boston,First-time Buyer
+35066,CUST_35066,Julia,Sanders,julia.sanders@yahoo.com,Detroit,First-time Buyer
+35164,CUST_35164,Jane,Jackson,jane.jackson@outlook.com,Washington,Loyal Customer
+35183,CUST_35183,Brandon,Harmon,brandon.harmon@outlook.com,Tucson,Deal Seeker
+35337,CUST_35337,Robert,Mccann,robert.mccann@outlook.com,Phoenix,High Value
+35436,CUST_35436,Joshua,Ball,joshua.ball@gmail.com,Miami,Online Shopper
+35513,CUST_35513,Tina,Palmer,tina.palmer@yahoo.com,Indianapolis,Premium Shopper
+35697,CUST_35697,John,Reeves,john.reeves@outlook.com,Tucson,High Value
+35828,CUST_35828,Courtney,Silva,courtney.silva@outlook.com,Austin,Premium Shopper
+35901,CUST_35901,Amy,Williams,amy.williams@outlook.com,Seattle,Budget Shopper
+35908,CUST_35908,Shannon,Todd,shannon.todd@outlook.com,Colorado Springs,Occasional Shopper
+35986,CUST_35986,James,Mendoza,james.mendoza@gmail.com,Austin,Premium Shopper
+36269,CUST_36269,Rebekah,Brown,rebekah.brown@outlook.com,San Jose,Online Shopper
+36311,CUST_36311,Cindy,Dougherty,cindy.dougherty@gmail.com,Portland,High Value
+36324,CUST_36324,Antonio,Richards,antonio.richards@outlook.com,Las Vegas,Premium Shopper
+36341,CUST_36341,Patrick,Martin,patrick.martin@gmail.com,New Orleans,Deal Seeker
+36356,CUST_36356,James,Moreno,james.moreno@outlook.com,San Francisco,First-time Buyer
+36389,CUST_36389,Julie,Perkins,julie.perkins@outlook.com,Indianapolis,First-time Buyer
+36620,CUST_36620,Michael,Hickman,michael.hickman@outlook.com,Indianapolis,Churn Risk
+36768,CUST_36768,Sharon,Johnson,sharon.johnson@gmail.com,Milwaukee,Deal Seeker
+36773,CUST_36773,Ian,Lawson,ian.lawson@outlook.com,Phoenix,Loyal Customer
+36834,CUST_36834,Kelsey,Shaw,kelsey.shaw@gmail.com,Oklahoma City,Occasional Shopper
+36849,CUST_36849,Cynthia,Carrillo,cynthia.carrillo@outlook.com,Oklahoma City,First-time Buyer
+36916,CUST_36916,Shannon,Smith,shannon.smith@outlook.com,Las Vegas,First-time Buyer
+36940,CUST_36940,Aaron,Fisher,aaron.fisher@outlook.com,Milwaukee,In-Store Regular
+37067,CUST_37067,David,Massey,david.massey@yahoo.com,Denver,Occasional Shopper
+37101,CUST_37101,Kelsey,Smith,kelsey.smith@gmail.com,Kansas City,Budget Shopper
+37154,CUST_37154,Ronald,Bauer,ronald.bauer@gmail.com,Indianapolis,Loyal Customer
+37203,CUST_37203,Joshua,Galloway,joshua.galloway@yahoo.com,New Orleans,In-Store Regular
+37257,CUST_37257,Sharon,Caldwell,sharon.caldwell@yahoo.com,Chicago,Churn Risk
+37273,CUST_37273,Erika,Gibson,erika.gibson@yahoo.com,Philadelphia,Churn Risk
+37435,CUST_37435,Dawn,Avery,dawn.avery@yahoo.com,Washington,Online Shopper
+37553,CUST_37553,Trevor,Ray,trevor.ray@outlook.com,Long Beach,Loyal Customer
+37569,CUST_37569,Linda,Anderson,linda.anderson@yahoo.com,Virginia Beach,Churn Risk
+37595,CUST_37595,Daniel,Jacobson,daniel.jacobson@yahoo.com,Colorado Springs,Online Shopper
+37616,CUST_37616,Mercedes,Gomez,mercedes.gomez@gmail.com,Philadelphia,High Value
+37657,CUST_37657,Jose,Miller,jose.miller@outlook.com,Omaha,Deal Seeker
+37782,CUST_37782,Beth,Taylor,beth.taylor@yahoo.com,Memphis,First-time Buyer
+37860,CUST_37860,Tammy,Gonzalez,tammy.gonzalez@outlook.com,Tulsa,In-Store Regular
+38293,CUST_38293,Madeline,Knight,madeline.knight@gmail.com,New York,Loyal Customer
+38313,CUST_38313,Roy,Hill,roy.hill@outlook.com,Detroit,High Value
+38335,CUST_38335,Katherine,Taylor,katherine.taylor@outlook.com,Chicago,Loyal Customer
+38433,CUST_38433,Andrew,Garza,andrew.garza@outlook.com,Raleigh,Online Shopper
+38522,CUST_38522,Colin,Rodgers,colin.rodgers@yahoo.com,Tucson,Churn Risk
+38576,CUST_38576,Jamie,Diaz,jamie.diaz@gmail.com,Arlington,Premium Shopper
+38578,CUST_38578,James,Mcdonald,james.mcdonald@yahoo.com,San Diego,In-Store Regular
+38621,CUST_38621,Nathan,Lara,nathan.lara@yahoo.com,New Orleans,Online Shopper
+38750,CUST_38750,Janice,Garcia,janice.garcia@outlook.com,Seattle,Loyal Customer
+38757,CUST_38757,Jonathan,Fry,jonathan.fry@yahoo.com,New Orleans,Premium Shopper
+38833,CUST_38833,Sherry,Rogers,sherry.rogers@outlook.com,Denver,In-Store Regular
+38842,CUST_38842,Michelle,Simon,michelle.simon@outlook.com,Memphis,High Value
+39050,CUST_39050,Michelle,Smith,michelle.smith@gmail.com,Raleigh,High Value
+39197,CUST_39197,Anthony,Torres,anthony.torres@outlook.com,Atlanta,In-Store Regular
+39256,CUST_39256,Kaitlin,Hardy,kaitlin.hardy@gmail.com,Atlanta,Churn Risk
+39291,CUST_39291,Jason,West,jason.west@gmail.com,Louisville,Online Shopper
+39415,CUST_39415,Cathy,Mcclure,cathy.mcclure@gmail.com,Jacksonville,Premium Shopper
+39520,CUST_39520,David,Fischer,david.fischer@gmail.com,Nashville,Online Shopper
+39531,CUST_39531,Julie,Small,julie.small@gmail.com,Miami,First-time Buyer
+39633,CUST_39633,Chad,Smith,chad.smith@outlook.com,Long Beach,Deal Seeker
+39648,CUST_39648,Kelly,Cole,kelly.cole@yahoo.com,Oklahoma City,In-Store Regular
+39766,CUST_39766,Tony,Nichols,tony.nichols@gmail.com,Houston,Churn Risk
+39926,CUST_39926,Robert,Villarreal,robert.villarreal@yahoo.com,Atlanta,Churn Risk
+40031,CUST_40031,Melody,Diaz,melody.diaz@outlook.com,Philadelphia,In-Store Regular
+40094,CUST_40094,Linda,Singleton,linda.singleton@yahoo.com,Nashville,Deal Seeker
+40212,CUST_40212,Michael,Baker,michael.baker@gmail.com,Kansas City,Premium Shopper
+40226,CUST_40226,Philip,Soto,philip.soto@gmail.com,Long Beach,High Value
+40359,CUST_40359,John,Miller,john.miller@yahoo.com,Dallas,Budget Shopper
+40458,CUST_40458,Douglas,White,douglas.white@gmail.com,Indianapolis,Occasional Shopper
+40498,CUST_40498,Virginia,Morgan,virginia.morgan@outlook.com,Colorado Springs,Loyal Customer
+40514,CUST_40514,Thomas,Meyer,thomas.meyer@gmail.com,Las Vegas,Online Shopper
+40599,CUST_40599,Joshua,Gonzalez,joshua.gonzalez@gmail.com,Tampa,Churn Risk
+40623,CUST_40623,Dustin,Friedman,dustin.friedman@gmail.com,Houston,Deal Seeker
+40714,CUST_40714,Anthony,Gardner,anthony.gardner@gmail.com,Raleigh,Online Shopper
+40755,CUST_40755,Loretta,Bautista,loretta.bautista@gmail.com,Oklahoma City,Premium Shopper
+40761,CUST_40761,Patrick,Thompson,patrick.thompson@outlook.com,Tucson,Churn Risk
+40777,CUST_40777,Benjamin,Davis,benjamin.davis@gmail.com,Chicago,Budget Shopper
+40837,CUST_40837,William,Mitchell,william.mitchell@yahoo.com,Austin,High Value
+40986,CUST_40986,Mark,Ross,mark.ross@outlook.com,San Diego,In-Store Regular
+40999,CUST_40999,Barbara,Adams,barbara.adams@gmail.com,Tucson,High Value
+41076,CUST_41076,William,Bailey,william.bailey@yahoo.com,Jacksonville,In-Store Regular
+41473,CUST_41473,Todd,Torres,todd.torres@yahoo.com,Jacksonville,Premium Shopper
+41487,CUST_41487,Kimberly,Hutchinson,kimberly.hutchinson@gmail.com,Jacksonville,Deal Seeker
+41528,CUST_41528,Michael,Cole,michael.cole@outlook.com,Dallas,First-time Buyer
+41582,CUST_41582,Reginald,Jones,reginald.jones@outlook.com,Jacksonville,In-Store Regular
+41669,CUST_41669,Maxwell,Mcclure,maxwell.mcclure@yahoo.com,Raleigh,Budget Shopper
+41707,CUST_41707,Ruben,Fitzpatrick,ruben.fitzpatrick@gmail.com,Indianapolis,Loyal Customer
+41748,CUST_41748,Amanda,Brown,amanda.brown@outlook.com,Portland,Churn Risk
+41755,CUST_41755,Daryl,Reese,daryl.reese@gmail.com,Baltimore,Budget Shopper
+41774,CUST_41774,Brittany,Johnston,brittany.johnston@gmail.com,New Orleans,Churn Risk
+41821,CUST_41821,Douglas,Munoz,douglas.munoz@gmail.com,Phoenix,High Value
+41850,CUST_41850,Timothy,Miller,timothy.miller@gmail.com,Denver,Deal Seeker
+41927,CUST_41927,Margaret,Smith,margaret.smith@gmail.com,Tampa,Churn Risk
+41955,CUST_41955,Michelle,Barron,michelle.barron@outlook.com,Nashville,High Value
+41960,CUST_41960,Brandi,Mcguire,brandi.mcguire@outlook.com,Fresno,First-time Buyer
+41969,CUST_41969,Shane,Freeman,shane.freeman@gmail.com,Oakland,In-Store Regular
+42177,CUST_42177,Alicia,Fisher,alicia.fisher@gmail.com,San Jose,Occasional Shopper
+42278,CUST_42278,Gregory,Valdez,gregory.valdez@outlook.com,Dallas,In-Store Regular
+42301,CUST_42301,Kristen,Wilson,kristen.wilson@outlook.com,Chicago,Churn Risk
+42493,CUST_42493,Matthew,Martinez,matthew.martinez@outlook.com,Miami,Deal Seeker
+42521,CUST_42521,Kelly,Tapia,kelly.tapia@gmail.com,Las Vegas,Deal Seeker
+42584,CUST_42584,Alyssa,Parker,alyssa.parker@yahoo.com,Oakland,Online Shopper
+42623,CUST_42623,Tracy,Guerra,tracy.guerra@outlook.com,Boston,Churn Risk
+42625,CUST_42625,Lee,Peterson,lee.peterson@yahoo.com,Nashville,Premium Shopper
+42639,CUST_42639,Danielle,Mcclure,danielle.mcclure@outlook.com,Miami,First-time Buyer
+42674,CUST_42674,Bradley,King,bradley.king@yahoo.com,Long Beach,In-Store Regular
+42702,CUST_42702,Matthew,Green,matthew.green@outlook.com,Fresno,Occasional Shopper
+42714,CUST_42714,Dale,Hart,dale.hart@gmail.com,Miami,First-time Buyer
+42785,CUST_42785,Angela,Ramirez,angela.ramirez@outlook.com,Portland,Online Shopper
+42808,CUST_42808,Mackenzie,Blake,mackenzie.blake@yahoo.com,Indianapolis,Deal Seeker
+42822,CUST_42822,Kimberly,Hamilton,kimberly.hamilton@yahoo.com,Oakland,Premium Shopper
+42877,CUST_42877,Jerome,Grant,jerome.grant@yahoo.com,Minneapolis,Budget Shopper
+42880,CUST_42880,Michael,Williams,michael.williams@yahoo.com,Memphis,Premium Shopper
+42888,CUST_42888,Joseph,Perez,joseph.perez@outlook.com,Fort Worth,Occasional Shopper
+43087,CUST_43087,Michael,Hampton,michael.hampton@yahoo.com,Minneapolis,Online Shopper
+43219,CUST_43219,Amy,Taylor,amy.taylor@gmail.com,Baltimore,Churn Risk
+43231,CUST_43231,Matthew,Davis,matthew.davis@gmail.com,El Paso,Occasional Shopper
+43321,CUST_43321,Maria,Skinner,maria.skinner@yahoo.com,San Francisco,Online Shopper
+43531,CUST_43531,Danny,Smith,danny.smith@outlook.com,Oakland,Premium Shopper
+43566,CUST_43566,Brian,Rodriguez,brian.rodriguez@outlook.com,Houston,In-Store Regular
+43622,CUST_43622,Emily,Copeland,emily.copeland@gmail.com,Miami,Premium Shopper
+43655,CUST_43655,Jennifer,Ashley,jennifer.ashley@gmail.com,Sacramento,In-Store Regular
+43659,CUST_43659,William,Myers,william.myers@yahoo.com,Austin,Premium Shopper
+43723,CUST_43723,Angelica,Hudson,angelica.hudson@gmail.com,Phoenix,Deal Seeker
+43793,CUST_43793,Jenna,Morris,jenna.morris@gmail.com,Washington,Premium Shopper
+43883,CUST_43883,Jeremy,Pearson,jeremy.pearson@yahoo.com,Boston,Occasional Shopper
+43915,CUST_43915,Dylan,Gill,dylan.gill@gmail.com,Jacksonville,High Value
+43962,CUST_43962,Christina,Nunez,christina.nunez@gmail.com,Kansas City,Deal Seeker
+44110,CUST_44110,Veronica,Mcintosh,veronica.mcintosh@gmail.com,Raleigh,Online Shopper
+44117,CUST_44117,Jonathan,Harris,jonathan.harris@yahoo.com,Austin,Premium Shopper
+44145,CUST_44145,Kevin,Jenkins,kevin.jenkins@outlook.com,Arlington,Occasional Shopper
+44220,CUST_44220,Vanessa,Davis,vanessa.davis@yahoo.com,Tulsa,Churn Risk
+44257,CUST_44257,Charles,Johnson,charles.johnson@outlook.com,New Orleans,Occasional Shopper
+44357,CUST_44357,Daniel,Collier,daniel.collier@outlook.com,Arlington,Loyal Customer
+44363,CUST_44363,Christina,Mills,christina.mills@yahoo.com,Long Beach,Online Shopper
+44382,CUST_44382,Maria,Moore,maria.moore@outlook.com,Tampa,Occasional Shopper
+44396,CUST_44396,Ashley,Wood,ashley.wood@outlook.com,Columbus,Loyal Customer
+44487,CUST_44487,Brandon,Boyle,brandon.boyle@outlook.com,Long Beach,High Value
+44491,CUST_44491,Jim,Kim,jim.kim@gmail.com,Jacksonville,First-time Buyer
+44759,CUST_44759,Barbara,Moore,barbara.moore@gmail.com,Nashville,Budget Shopper
+44766,CUST_44766,Allen,Crawford,allen.crawford@outlook.com,Miami,High Value
+44769,CUST_44769,Steven,Brown,steven.brown@outlook.com,New York,In-Store Regular
+44943,CUST_44943,Laura,Nichols,laura.nichols@outlook.com,Detroit,In-Store Regular
+44961,CUST_44961,Amanda,Mcclure,amanda.mcclure@outlook.com,Austin,Premium Shopper
+45008,CUST_45008,Jeffrey,Butler,jeffrey.butler@yahoo.com,Tampa,Budget Shopper
+45012,CUST_45012,Richard,Wade,richard.wade@yahoo.com,San Francisco,In-Store Regular
+45120,CUST_45120,Rachel,Perez,rachel.perez@outlook.com,Sacramento,High Value
+45250,CUST_45250,Charles,Sanchez,charles.sanchez@yahoo.com,Raleigh,First-time Buyer
+45331,CUST_45331,Karen,Rodriguez,karen.rodriguez@outlook.com,El Paso,First-time Buyer
+45707,CUST_45707,Eric,Vaughan,eric.vaughan@gmail.com,Austin,Budget Shopper
+45740,CUST_45740,Michael,Adams,michael.adams@gmail.com,Detroit,Loyal Customer
+45755,CUST_45755,Katie,Lambert,katie.lambert@gmail.com,Detroit,Budget Shopper
+45761,CUST_45761,Theresa,Woodward,theresa.woodward@outlook.com,Sacramento,High Value
+45769,CUST_45769,Bobby,Morris,bobby.morris@gmail.com,San Jose,Churn Risk
+45803,CUST_45803,Alison,Lee,alison.lee@yahoo.com,Louisville,In-Store Regular
+45904,CUST_45904,Mary,Lopez,mary.lopez@yahoo.com,Oakland,Occasional Shopper
+45926,CUST_45926,Stephanie,Evans,stephanie.evans@gmail.com,Dallas,In-Store Regular
+45965,CUST_45965,Rebecca,Montoya,rebecca.montoya@yahoo.com,San Jose,Occasional Shopper
+45981,CUST_45981,Jeremy,Nelson,jeremy.nelson@yahoo.com,Indianapolis,Occasional Shopper
+45989,CUST_45989,Christopher,Bryant,christopher.bryant@gmail.com,San Antonio,Online Shopper
+46024,CUST_46024,Paul,Carey,paul.carey@gmail.com,Dallas,Budget Shopper
+46037,CUST_46037,Nicholas,Smith,nicholas.smith@outlook.com,Washington,In-Store Regular
+46038,CUST_46038,Sara,Shaw,sara.shaw@outlook.com,Washington,First-time Buyer
+46082,CUST_46082,Jonathan,Gilbert,jonathan.gilbert@gmail.com,Minneapolis,Loyal Customer
+46083,CUST_46083,Joseph,Aguilar,joseph.aguilar@yahoo.com,Detroit,High Value
+46119,CUST_46119,Denise,Brown,denise.brown@gmail.com,Milwaukee,In-Store Regular
+46161,CUST_46161,Heidi,Martin,heidi.martin@gmail.com,Columbus,First-time Buyer
+46190,CUST_46190,Teresa,Owen,teresa.owen@outlook.com,San Francisco,In-Store Regular
+46197,CUST_46197,Tara,Mccormick,tara.mccormick@outlook.com,Houston,In-Store Regular
+46230,CUST_46230,William,Jones,william.jones@outlook.com,El Paso,Online Shopper
+46655,CUST_46655,Gina,Wright,gina.wright@gmail.com,San Diego,Churn Risk
+46792,CUST_46792,Ronald,Hamilton,ronald.hamilton@gmail.com,New Orleans,In-Store Regular
+46877,CUST_46877,Anthony,Burke,anthony.burke@yahoo.com,San Antonio,In-Store Regular
+46885,CUST_46885,Rebecca,Diaz,rebecca.diaz@yahoo.com,Kansas City,High Value
+46966,CUST_46966,Pamela,Smith,pamela.smith@yahoo.com,Houston,Occasional Shopper
+47023,CUST_47023,Seth,James,seth.james@gmail.com,Boston,Occasional Shopper
+47102,CUST_47102,Carol,Kelly,carol.kelly@outlook.com,New York,First-time Buyer
+47123,CUST_47123,Grace,Lamb,grace.lamb@yahoo.com,Long Beach,Churn Risk
+47140,CUST_47140,Mary,Morales,mary.morales@gmail.com,Colorado Springs,In-Store Regular
+47202,CUST_47202,Jonathan,Clarke,jonathan.clarke@gmail.com,Tulsa,Churn Risk
+47210,CUST_47210,Megan,Harper,megan.harper@gmail.com,Los Angeles,In-Store Regular
+47383,CUST_47383,Tommy,Berger,tommy.berger@yahoo.com,Oklahoma City,Online Shopper
+47453,CUST_47453,Heather,Mercado,heather.mercado@yahoo.com,Nashville,In-Store Regular
+47497,CUST_47497,Hunter,Patterson,hunter.patterson@outlook.com,Dallas,In-Store Regular
+47517,CUST_47517,Stephanie,Boone,stephanie.boone@yahoo.com,Oakland,Occasional Shopper
+47518,CUST_47518,Kyle,Boyd,kyle.boyd@gmail.com,Colorado Springs,In-Store Regular
+47533,CUST_47533,Katherine,Robinson,katherine.robinson@gmail.com,Memphis,Premium Shopper
+47567,CUST_47567,Amber,Cowan,amber.cowan@outlook.com,San Antonio,Online Shopper
+47583,CUST_47583,Justin,Moreno,justin.moreno@yahoo.com,Louisville,Deal Seeker
+47638,CUST_47638,Robert,Lewis,robert.lewis@outlook.com,Milwaukee,Churn Risk
+47656,CUST_47656,Jason,Robinson,jason.robinson@gmail.com,Portland,Loyal Customer
+47827,CUST_47827,Adam,Reyes,adam.reyes@yahoo.com,Boston,Loyal Customer
+47857,CUST_47857,Nathan,Sweeney,nathan.sweeney@yahoo.com,Milwaukee,Occasional Shopper
+47866,CUST_47866,Jason,Holmes,jason.holmes@gmail.com,Chicago,In-Store Regular
+47929,CUST_47929,Benjamin,Johnson,benjamin.johnson@gmail.com,Denver,Deal Seeker
+48145,CUST_48145,Allen,House,allen.house@outlook.com,Nashville,In-Store Regular
+48149,CUST_48149,Matthew,Campbell,matthew.campbell@gmail.com,Las Vegas,In-Store Regular
+48179,CUST_48179,Lisa,Anderson,lisa.anderson@gmail.com,Omaha,First-time Buyer
+48203,CUST_48203,Erin,Reynolds,erin.reynolds@gmail.com,Boston,Online Shopper
+48236,CUST_48236,John,Bryant,john.bryant@gmail.com,Houston,Budget Shopper
+48257,CUST_48257,Clayton,Williamson,clayton.williamson@outlook.com,Oklahoma City,Loyal Customer
+48338,CUST_48338,Dakota,Holden,dakota.holden@yahoo.com,Dallas,Loyal Customer
+48339,CUST_48339,Jason,Ellis,jason.ellis@yahoo.com,Fresno,Budget Shopper
+48358,CUST_48358,Angela,Gutierrez,angela.gutierrez@gmail.com,Albuquerque,High Value
+48427,CUST_48427,Timothy,Gross,timothy.gross@gmail.com,Nashville,Occasional Shopper
+48499,CUST_48499,Mark,Higgins,mark.higgins@yahoo.com,Los Angeles,High Value
+48514,CUST_48514,John,Wilson,john.wilson@yahoo.com,Washington,Churn Risk
+48550,CUST_48550,Cheyenne,Dawson,cheyenne.dawson@yahoo.com,Colorado Springs,Loyal Customer
+48631,CUST_48631,Patricia,Knapp,patricia.knapp@gmail.com,New York,Premium Shopper
+48788,CUST_48788,Charles,Martin,charles.martin@yahoo.com,Philadelphia,Churn Risk
+48845,CUST_48845,Michael,Levy,michael.levy@yahoo.com,Colorado Springs,Premium Shopper
+48984,CUST_48984,Julie,Edwards,julie.edwards@gmail.com,Philadelphia,High Value
+49230,CUST_49230,Diana,Neal,diana.neal@outlook.com,Nashville,Occasional Shopper
+49285,CUST_49285,Kimberly,Rivera,kimberly.rivera@gmail.com,Jacksonville,Online Shopper
+49323,CUST_49323,Robert,Murphy,robert.murphy@yahoo.com,Tucson,Loyal Customer
+49358,CUST_49358,Courtney,Patterson,courtney.patterson@outlook.com,Fresno,Churn Risk
+49363,CUST_49363,Wyatt,Davis,wyatt.davis@gmail.com,Albuquerque,Deal Seeker
+49708,CUST_49708,Breanna,Walters,breanna.walters@gmail.com,New Orleans,Occasional Shopper
+49727,CUST_49727,Christopher,Willis,christopher.willis@gmail.com,Detroit,First-time Buyer
+49728,CUST_49728,Juan,Mcknight,juan.mcknight@yahoo.com,Denver,First-time Buyer
+49730,CUST_49730,Bryan,Meyer,bryan.meyer@gmail.com,New Orleans,Loyal Customer
+49916,CUST_49916,Sean,Weaver,sean.weaver@gmail.com,Albuquerque,High Value
+49927,CUST_49927,Steven,Watts,steven.watts@gmail.com,Oakland,Churn Risk
+50006,CUST_50006,Amanda,Molina,amanda.molina@yahoo.com,Dallas,First-time Buyer
+50008,CUST_50008,Rebecca,Lee,rebecca.lee@gmail.com,Mesa,Budget Shopper
+50031,CUST_50031,Harry,Kim,harry.kim@yahoo.com,Arlington,Churn Risk
+50147,CUST_50147,Suzanne,Sampson,suzanne.sampson@yahoo.com,Indianapolis,Churn Risk
+50208,CUST_50208,Roger,Johnson,roger.johnson@yahoo.com,Atlanta,Online Shopper
+50314,CUST_50314,Jennifer,Yates,jennifer.yates@outlook.com,Omaha,High Value
+50513,CUST_50513,Elizabeth,Oliver,elizabeth.oliver@yahoo.com,Albuquerque,First-time Buyer
+50523,CUST_50523,Susan,Lewis,susan.lewis@gmail.com,El Paso,In-Store Regular
+50543,CUST_50543,Karen,Reed,karen.reed@gmail.com,Portland,Premium Shopper
+50611,CUST_50611,Stephanie,Riley,stephanie.riley@outlook.com,Columbus,Churn Risk
+50656,CUST_50656,Jeremy,Acosta,jeremy.acosta@outlook.com,Boston,First-time Buyer
+50704,CUST_50704,Michael,Cole,michael.cole@outlook.com,Fresno,High Value
+50792,CUST_50792,Robert,Freeman,robert.freeman@outlook.com,Minneapolis,Churn Risk
+51037,CUST_51037,Roberto,Hall,roberto.hall@yahoo.com,San Jose,High Value
+51088,CUST_51088,Randy,Hernandez,randy.hernandez@outlook.com,San Francisco,Deal Seeker
+51254,CUST_51254,Lori,Robinson,lori.robinson@outlook.com,Fresno,High Value
+51264,CUST_51264,Brittany,Prince,brittany.prince@gmail.com,Denver,Online Shopper
+51276,CUST_51276,Jeremy,Harper,jeremy.harper@outlook.com,Tampa,Online Shopper
+51398,CUST_51398,Keith,Nelson,keith.nelson@gmail.com,Milwaukee,Online Shopper
+51400,CUST_51400,Lisa,Sullivan,lisa.sullivan@yahoo.com,Denver,Churn Risk
+51431,CUST_51431,Richard,Herrera,richard.herrera@outlook.com,Washington,Churn Risk
+51432,CUST_51432,Daniel,Taylor,daniel.taylor@outlook.com,Atlanta,In-Store Regular
+51472,CUST_51472,Robert,Hardy,robert.hardy@yahoo.com,Colorado Springs,High Value
+51625,CUST_51625,Patricia,Gonzales,patricia.gonzales@gmail.com,Washington,Occasional Shopper
+51716,CUST_51716,Molly,Eaton,molly.eaton@gmail.com,Phoenix,Budget Shopper
+51806,CUST_51806,Brent,Moore,brent.moore@yahoo.com,San Francisco,Online Shopper
+51808,CUST_51808,Jason,Russell,jason.russell@outlook.com,Houston,Loyal Customer
+51826,CUST_51826,Henry,Robinson,henry.robinson@outlook.com,Oakland,Churn Risk
+51909,CUST_51909,Ashley,Clark,ashley.clark@gmail.com,San Diego,Churn Risk
+51934,CUST_51934,Donald,Gomez,donald.gomez@yahoo.com,Virginia Beach,Deal Seeker
+52141,CUST_52141,Anthony,Williams,anthony.williams@outlook.com,San Jose,Loyal Customer
+52159,CUST_52159,Emily,Weber,emily.weber@yahoo.com,Minneapolis,Loyal Customer
+52165,CUST_52165,Michael,Gallagher,michael.gallagher@gmail.com,Houston,Premium Shopper
+52291,CUST_52291,Lauren,Morales,lauren.morales@outlook.com,Oakland,Budget Shopper
+52293,CUST_52293,Ryan,Robinson,ryan.robinson@yahoo.com,Memphis,In-Store Regular
+52382,CUST_52382,Antonio,Murray,antonio.murray@outlook.com,Louisville,Budget Shopper
+52384,CUST_52384,Charles,Smith,charles.smith@yahoo.com,New York,First-time Buyer
+52405,CUST_52405,Matthew,Walls,matthew.walls@outlook.com,Dallas,High Value
+52406,CUST_52406,Fernando,Ross,fernando.ross@outlook.com,Arlington,High Value
+52559,CUST_52559,Robert,Cobb,robert.cobb@yahoo.com,Austin,Loyal Customer
+52621,CUST_52621,Richard,Lynn,richard.lynn@gmail.com,Philadelphia,Churn Risk
+52642,CUST_52642,Jennifer,Ramirez,jennifer.ramirez@outlook.com,Charlotte,Occasional Shopper
+52682,CUST_52682,Kyle,Howard,kyle.howard@gmail.com,Chicago,Online Shopper
+52857,CUST_52857,Phyllis,Hayes,phyllis.hayes@gmail.com,Memphis,Premium Shopper
+52949,CUST_52949,Julie,Anderson,julie.anderson@gmail.com,Washington,In-Store Regular
+52961,CUST_52961,Stephanie,Dawson,stephanie.dawson@outlook.com,Oakland,High Value
+53028,CUST_53028,Scott,Thompson,scott.thompson@yahoo.com,San Francisco,Premium Shopper
+53037,CUST_53037,Taylor,Carson,taylor.carson@gmail.com,Tucson,In-Store Regular
+53040,CUST_53040,Aaron,Russell,aaron.russell@gmail.com,Seattle,Occasional Shopper
+53041,CUST_53041,Sherry,Diaz,sherry.diaz@yahoo.com,Philadelphia,Online Shopper
+53066,CUST_53066,Randy,Hamilton,randy.hamilton@yahoo.com,Houston,First-time Buyer
+53128,CUST_53128,James,Klein,james.klein@outlook.com,Phoenix,Online Shopper
+53230,CUST_53230,Roberto,Thompson,roberto.thompson@outlook.com,Tucson,Occasional Shopper
+53364,CUST_53364,John,Baker,john.baker@yahoo.com,San Francisco,Loyal Customer
+53441,CUST_53441,Russell,Browning,russell.browning@yahoo.com,San Antonio,First-time Buyer
+53482,CUST_53482,Marvin,Rogers,marvin.rogers@gmail.com,Baltimore,First-time Buyer
+53487,CUST_53487,Andrea,Dixon,andrea.dixon@yahoo.com,San Antonio,In-Store Regular
+53535,CUST_53535,Kristina,Giles,kristina.giles@gmail.com,Phoenix,Occasional Shopper
+53691,CUST_53691,Logan,Davis,logan.davis@outlook.com,Jacksonville,In-Store Regular
+53721,CUST_53721,Jason,Jackson,jason.jackson@yahoo.com,New York,In-Store Regular
+53761,CUST_53761,Jessica,Henson,jessica.henson@outlook.com,Dallas,In-Store Regular
+53877,CUST_53877,Monique,Golden,monique.golden@outlook.com,Detroit,High Value
+53931,CUST_53931,Victoria,Moss,victoria.moss@yahoo.com,Austin,Loyal Customer
+53945,CUST_53945,Angela,Cox,angela.cox@outlook.com,Portland,Premium Shopper
+53984,CUST_53984,Kirk,Wilson,kirk.wilson@outlook.com,Arlington,Occasional Shopper
+54080,CUST_54080,Maria,Watson,maria.watson@gmail.com,Houston,First-time Buyer
+54087,CUST_54087,Ruben,Camacho,ruben.camacho@outlook.com,Fresno,Loyal Customer
+54467,CUST_54467,Amber,Lee,amber.lee@outlook.com,Columbus,Premium Shopper
+54604,CUST_54604,Andrew,Nixon,andrew.nixon@yahoo.com,San Jose,Occasional Shopper
+54622,CUST_54622,Amber,Ramos,amber.ramos@yahoo.com,Nashville,Loyal Customer
+54642,CUST_54642,Kristi,Castillo,kristi.castillo@yahoo.com,New York,Loyal Customer
+54672,CUST_54672,Leah,Hubbard,leah.hubbard@gmail.com,Memphis,Budget Shopper
+54709,CUST_54709,Anna,Lewis,anna.lewis@gmail.com,Baltimore,High Value
+54742,CUST_54742,Matthew,Nguyen,matthew.nguyen@gmail.com,Portland,Churn Risk
+54773,CUST_54773,Samantha,Jenkins,samantha.jenkins@gmail.com,Chicago,First-time Buyer
+54790,CUST_54790,Jennifer,Lloyd,jennifer.lloyd@gmail.com,Boston,First-time Buyer
+54869,CUST_54869,Kathleen,Harrison,kathleen.harrison@gmail.com,Colorado Springs,Premium Shopper
+54870,CUST_54870,Taylor,Solomon,taylor.solomon@yahoo.com,New York,In-Store Regular
+54923,CUST_54923,Patrick,Ramirez,patrick.ramirez@yahoo.com,Seattle,In-Store Regular
+54924,CUST_54924,Heather,Brewer,heather.brewer@gmail.com,Memphis,High Value
+54974,CUST_54974,Brian,Sanchez,brian.sanchez@outlook.com,Colorado Springs,High Value
+55023,CUST_55023,Tamara,Fields,tamara.fields@outlook.com,Sacramento,Online Shopper
+55148,CUST_55148,Mark,Golden,mark.golden@gmail.com,Portland,First-time Buyer
+55197,CUST_55197,Debbie,Robertson,debbie.robertson@yahoo.com,Portland,Loyal Customer
+55287,CUST_55287,Brett,Soto,brett.soto@gmail.com,Minneapolis,Online Shopper
+55353,CUST_55353,Andrew,Floyd,andrew.floyd@yahoo.com,Columbus,Churn Risk
+55433,CUST_55433,Joshua,Morrow,joshua.morrow@gmail.com,Washington,First-time Buyer
+55458,CUST_55458,Sean,Campbell,sean.campbell@gmail.com,Seattle,Online Shopper
+55554,CUST_55554,Taylor,Williams,taylor.williams@yahoo.com,Dallas,Premium Shopper
+55558,CUST_55558,Lisa,Mccormick,lisa.mccormick@yahoo.com,Portland,Budget Shopper
+55612,CUST_55612,Sandra,Williams,sandra.williams@outlook.com,Milwaukee,Premium Shopper
+55726,CUST_55726,Tiffany,Cook,tiffany.cook@yahoo.com,Oklahoma City,Loyal Customer
+55904,CUST_55904,Erin,Garrison,erin.garrison@gmail.com,Raleigh,Premium Shopper
+55950,CUST_55950,Allison,Kelly,allison.kelly@yahoo.com,Miami,High Value
+55976,CUST_55976,Bobby,Bennett,bobby.bennett@yahoo.com,Memphis,First-time Buyer
+56056,CUST_56056,Chelsea,Bennett,chelsea.bennett@yahoo.com,Seattle,Budget Shopper
+56169,CUST_56169,Breanna,Perez,breanna.perez@yahoo.com,Jacksonville,First-time Buyer
+56215,CUST_56215,Rebecca,Greer,rebecca.greer@gmail.com,Columbus,Deal Seeker
+56417,CUST_56417,Christopher,West,christopher.west@yahoo.com,Chicago,Deal Seeker
+56478,CUST_56478,Kimberly,Kelly,kimberly.kelly@yahoo.com,Tulsa,Online Shopper
+56504,CUST_56504,Edward,Douglas,edward.douglas@yahoo.com,Nashville,Occasional Shopper
+56583,CUST_56583,Samantha,Hall,samantha.hall@outlook.com,Memphis,Budget Shopper
+56586,CUST_56586,Keith,Adams,keith.adams@yahoo.com,Houston,Loyal Customer
+56698,CUST_56698,Katherine,Schneider,katherine.schneider@yahoo.com,Minneapolis,Deal Seeker
+56758,CUST_56758,Cristian,Stuart,cristian.stuart@gmail.com,Milwaukee,First-time Buyer
+56763,CUST_56763,Jason,Morgan,jason.morgan@gmail.com,Chicago,Occasional Shopper
+56833,CUST_56833,Angela,Hansen,angela.hansen@outlook.com,Los Angeles,Churn Risk
+56835,CUST_56835,Stacy,Dean,stacy.dean@outlook.com,Nashville,Churn Risk
+56865,CUST_56865,David,Reed,david.reed@gmail.com,Virginia Beach,In-Store Regular
+57063,CUST_57063,Billy,Williams,billy.williams@gmail.com,Memphis,Occasional Shopper
+57101,CUST_57101,Emily,Vargas,emily.vargas@gmail.com,Colorado Springs,Budget Shopper
+57207,CUST_57207,Barbara,Moore,barbara.moore@outlook.com,Oklahoma City,Deal Seeker
+57278,CUST_57278,Diana,Beltran,diana.beltran@outlook.com,Chicago,Deal Seeker
+57343,CUST_57343,Anthony,Chen,anthony.chen@yahoo.com,Tampa,High Value
+57345,CUST_57345,John,House,john.house@gmail.com,Long Beach,High Value
+57356,CUST_57356,Jeffrey,Austin,jeffrey.austin@yahoo.com,Louisville,In-Store Regular
+57647,CUST_57647,John,Rush,john.rush@yahoo.com,Dallas,Deal Seeker
+57655,CUST_57655,Kara,Thomas,kara.thomas@outlook.com,San Jose,Loyal Customer
+57787,CUST_57787,David,Lambert,david.lambert@gmail.com,San Diego,Premium Shopper
+57834,CUST_57834,Kristin,Valencia,kristin.valencia@outlook.com,Oakland,Loyal Customer
+57848,CUST_57848,Cindy,Cannon,cindy.cannon@gmail.com,Raleigh,Deal Seeker
+57970,CUST_57970,Deborah,Krause,deborah.krause@gmail.com,Oakland,Premium Shopper
+58114,CUST_58114,Andrea,Valencia,andrea.valencia@gmail.com,Memphis,Deal Seeker
+58335,CUST_58335,Nicholas,Lane,nicholas.lane@outlook.com,Louisville,Churn Risk
+58368,CUST_58368,Ryan,Mosley,ryan.mosley@gmail.com,El Paso,Budget Shopper
+58402,CUST_58402,Carrie,Haynes,carrie.haynes@gmail.com,Phoenix,Premium Shopper
+58451,CUST_58451,Colleen,Ware,colleen.ware@outlook.com,Oakland,Premium Shopper
+58474,CUST_58474,Jack,Henry,jack.henry@yahoo.com,Jacksonville,Online Shopper
+58571,CUST_58571,Abigail,Hayes,abigail.hayes@yahoo.com,Charlotte,Online Shopper
+58735,CUST_58735,Gerald,Hernandez,gerald.hernandez@outlook.com,Boston,High Value
+58747,CUST_58747,Christian,Andrews,christian.andrews@gmail.com,Minneapolis,Deal Seeker
+58770,CUST_58770,Kimberly,Orr,kimberly.orr@outlook.com,Charlotte,High Value
+58816,CUST_58816,Cindy,Russell,cindy.russell@yahoo.com,San Antonio,Deal Seeker
+58831,CUST_58831,Omar,Morgan,omar.morgan@outlook.com,Colorado Springs,Loyal Customer
+59000,CUST_59000,Thomas,Saunders,thomas.saunders@yahoo.com,Portland,High Value
+59004,CUST_59004,Dana,Baker,dana.baker@yahoo.com,Memphis,Churn Risk
+59093,CUST_59093,Wayne,Stewart,wayne.stewart@gmail.com,San Antonio,Budget Shopper
+59147,CUST_59147,David,Sims,david.sims@yahoo.com,Las Vegas,Occasional Shopper
+59176,CUST_59176,Frances,Jackson,frances.jackson@yahoo.com,Miami,First-time Buyer
+59195,CUST_59195,Sean,Goodman,sean.goodman@outlook.com,Chicago,Occasional Shopper
+59214,CUST_59214,Adam,Hansen,adam.hansen@outlook.com,Virginia Beach,In-Store Regular
+59217,CUST_59217,Lindsey,Brown,lindsey.brown@outlook.com,New York,First-time Buyer
+59342,CUST_59342,Brianna,Brooks,brianna.brooks@yahoo.com,El Paso,Deal Seeker
+59366,CUST_59366,Greg,Soto,greg.soto@gmail.com,Nashville,High Value
+59469,CUST_59469,Karina,Hernandez,karina.hernandez@yahoo.com,Omaha,Deal Seeker
+59473,CUST_59473,Laura,Alvarado,laura.alvarado@yahoo.com,Mesa,Online Shopper
+59557,CUST_59557,Cynthia,Banks,cynthia.banks@outlook.com,Louisville,Loyal Customer
+59595,CUST_59595,Patrick,Jones,patrick.jones@gmail.com,New York,Churn Risk
+59702,CUST_59702,Edward,Davis,edward.davis@gmail.com,San Jose,Premium Shopper
+59746,CUST_59746,Noah,Perez,noah.perez@yahoo.com,Milwaukee,High Value
+59753,CUST_59753,Charles,Thompson,charles.thompson@gmail.com,Indianapolis,Premium Shopper
+59756,CUST_59756,Jocelyn,Soto,jocelyn.soto@outlook.com,San Diego,High Value
+59812,CUST_59812,Bailey,Flores,bailey.flores@gmail.com,Philadelphia,First-time Buyer
+59856,CUST_59856,Darrell,Coffey,darrell.coffey@gmail.com,Baltimore,In-Store Regular
+59874,CUST_59874,Brandon,Crosby,brandon.crosby@yahoo.com,Milwaukee,High Value
+59879,CUST_59879,Daniel,Bell,daniel.bell@outlook.com,San Antonio,Budget Shopper
+59906,CUST_59906,Dominique,Graham,dominique.graham@yahoo.com,Long Beach,First-time Buyer
+59923,CUST_59923,Xavier,Smith,xavier.smith@outlook.com,Arlington,High Value
+59945,CUST_59945,Benjamin,Taylor,benjamin.taylor@gmail.com,Tucson,Loyal Customer
+60115,CUST_60115,Jason,Lambert,jason.lambert@outlook.com,Seattle,Churn Risk
+60174,CUST_60174,Jamie,Duncan,jamie.duncan@yahoo.com,Dallas,Deal Seeker
+60197,CUST_60197,Rodney,Levy,rodney.levy@yahoo.com,San Francisco,Loyal Customer
+60294,CUST_60294,Sandra,Martin,sandra.martin@outlook.com,Tucson,Premium Shopper
+60311,CUST_60311,Brandon,Woods,brandon.woods@gmail.com,Memphis,Occasional Shopper
+60495,CUST_60495,Wendy,Allen,wendy.allen@gmail.com,Oakland,Premium Shopper
+60510,CUST_60510,Barbara,Yang,barbara.yang@yahoo.com,Jacksonville,Online Shopper
+60524,CUST_60524,Misty,Rowe,misty.rowe@outlook.com,Tampa,Premium Shopper
+60728,CUST_60728,Mallory,Bell,mallory.bell@outlook.com,Las Vegas,First-time Buyer
+60752,CUST_60752,Daniel,Welch,daniel.welch@yahoo.com,Tulsa,Deal Seeker
+60776,CUST_60776,Rachael,Johnson,rachael.johnson@yahoo.com,New York,Deal Seeker
+60834,CUST_60834,Theresa,Thompson,theresa.thompson@gmail.com,Virginia Beach,Occasional Shopper
+60885,CUST_60885,Jennifer,Smith,jennifer.smith@outlook.com,Tucson,First-time Buyer
+60912,CUST_60912,Christina,Ramos,christina.ramos@outlook.com,Oakland,Online Shopper
+60968,CUST_60968,Timothy,Brock,timothy.brock@gmail.com,Raleigh,First-time Buyer
+61010,CUST_61010,Erin,Gonzalez,erin.gonzalez@outlook.com,Atlanta,Loyal Customer
+61014,CUST_61014,Samantha,Hughes,samantha.hughes@outlook.com,Albuquerque,Budget Shopper
+61038,CUST_61038,Michelle,Bishop,michelle.bishop@yahoo.com,Denver,Churn Risk
+61084,CUST_61084,Robert,Wilson,robert.wilson@outlook.com,Boston,Loyal Customer
+61308,CUST_61308,Dennis,Allen,dennis.allen@yahoo.com,Washington,First-time Buyer
+61355,CUST_61355,Raven,Baker,raven.baker@gmail.com,Charlotte,First-time Buyer
+61481,CUST_61481,Catherine,Lewis,catherine.lewis@outlook.com,Washington,Deal Seeker
+61546,CUST_61546,April,Walker,april.walker@yahoo.com,Mesa,In-Store Regular
+61557,CUST_61557,Amanda,Barr,amanda.barr@outlook.com,Tucson,Deal Seeker
+61608,CUST_61608,Marvin,Miller,marvin.miller@outlook.com,Baltimore,In-Store Regular
+61621,CUST_61621,Tyler,Williams,tyler.williams@gmail.com,Washington,High Value
+61632,CUST_61632,Todd,Conley,todd.conley@outlook.com,El Paso,Premium Shopper
+61698,CUST_61698,Todd,Lawson,todd.lawson@yahoo.com,El Paso,Budget Shopper
+61786,CUST_61786,Richard,Cherry,richard.cherry@yahoo.com,New York,High Value
+61846,CUST_61846,Keith,Smith,keith.smith@yahoo.com,Columbus,Churn Risk
+61944,CUST_61944,Emily,Anderson,emily.anderson@gmail.com,Philadelphia,Online Shopper
+62016,CUST_62016,Kathryn,Reynolds,kathryn.reynolds@yahoo.com,Albuquerque,High Value
+62071,CUST_62071,Ryan,Harris,ryan.harris@yahoo.com,Raleigh,Deal Seeker
+62225,CUST_62225,Christopher,Harrington,christopher.harrington@outlook.com,Omaha,Online Shopper
+62236,CUST_62236,Andrew,Thompson,andrew.thompson@gmail.com,Charlotte,Churn Risk
+62275,CUST_62275,Suzanne,West,suzanne.west@gmail.com,Fresno,In-Store Regular
+62365,CUST_62365,Heather,Stone,heather.stone@gmail.com,Detroit,In-Store Regular
+62510,CUST_62510,Kevin,Scott,kevin.scott@outlook.com,Phoenix,Premium Shopper
+62530,CUST_62530,Julia,Robinson,julia.robinson@yahoo.com,Detroit,In-Store Regular
+62537,CUST_62537,Jason,Reed,jason.reed@outlook.com,Long Beach,High Value
+62660,CUST_62660,Zachary,Vargas,zachary.vargas@outlook.com,San Francisco,Loyal Customer
+62777,CUST_62777,Christopher,Gonzalez,christopher.gonzalez@outlook.com,Tulsa,In-Store Regular
+62804,CUST_62804,Benjamin,Harris,benjamin.harris@yahoo.com,Kansas City,Premium Shopper
+62847,CUST_62847,Anthony,Martinez,anthony.martinez@gmail.com,San Diego,Premium Shopper
+62868,CUST_62868,Rebecca,Jones,rebecca.jones@outlook.com,Mesa,First-time Buyer
+62880,CUST_62880,Lisa,Adkins,lisa.adkins@gmail.com,Detroit,Online Shopper
+62915,CUST_62915,Jeremy,Pena,jeremy.pena@outlook.com,Mesa,Online Shopper
+62958,CUST_62958,Jessica,Olsen,jessica.olsen@outlook.com,San Francisco,Budget Shopper
+63016,CUST_63016,Sherri,Jones,sherri.jones@yahoo.com,Virginia Beach,Churn Risk
+63108,CUST_63108,Justin,Hayes,justin.hayes@gmail.com,Memphis,In-Store Regular
+63203,CUST_63203,James,Williams,james.williams@yahoo.com,Portland,In-Store Regular
+63292,CUST_63292,Charles,Johnson,charles.johnson@gmail.com,New York,Churn Risk
+63409,CUST_63409,Thomas,Rodriguez,thomas.rodriguez@outlook.com,Houston,High Value
+63449,CUST_63449,Christina,Warren,christina.warren@yahoo.com,New Orleans,Churn Risk
+63480,CUST_63480,Patricia,Castro,patricia.castro@gmail.com,Baltimore,Online Shopper
+63521,CUST_63521,Nancy,Brown,nancy.brown@gmail.com,Tulsa,Deal Seeker
+63534,CUST_63534,Michael,Perez,michael.perez@outlook.com,Sacramento,Premium Shopper
+63635,CUST_63635,Theresa,Beck,theresa.beck@gmail.com,Washington,First-time Buyer
+63698,CUST_63698,Joshua,Ayala,joshua.ayala@yahoo.com,Baltimore,Churn Risk
+63798,CUST_63798,Daniel,Alexander,daniel.alexander@outlook.com,Washington,Budget Shopper
+63854,CUST_63854,Alexis,Estrada,alexis.estrada@gmail.com,Denver,First-time Buyer
+63938,CUST_63938,Angela,Johnson,angela.johnson@yahoo.com,Tulsa,Budget Shopper
+63963,CUST_63963,Maria,Martin,maria.martin@yahoo.com,Colorado Springs,High Value
+63985,CUST_63985,Lauren,Ramirez,lauren.ramirez@outlook.com,Chicago,High Value
+64067,CUST_64067,Antonio,Morrison,antonio.morrison@gmail.com,Minneapolis,High Value
+64092,CUST_64092,Elizabeth,Powers,elizabeth.powers@gmail.com,Austin,In-Store Regular
+64160,CUST_64160,Gregory,Randolph,gregory.randolph@gmail.com,Seattle,Online Shopper
+64275,CUST_64275,Heather,Morgan,heather.morgan@gmail.com,Tampa,High Value
+64339,CUST_64339,James,Thomas,james.thomas@gmail.com,Dallas,Loyal Customer
+64367,CUST_64367,Jennifer,Miller,jennifer.miller@outlook.com,El Paso,Occasional Shopper
+64400,CUST_64400,Brandon,Andrews,brandon.andrews@gmail.com,Tucson,Online Shopper
+64416,CUST_64416,Bobby,King,bobby.king@gmail.com,Long Beach,Premium Shopper
+64594,CUST_64594,Michael,Thomas,michael.thomas@yahoo.com,New Orleans,Occasional Shopper
+64607,CUST_64607,Brittany,Perez,brittany.perez@outlook.com,Tulsa,In-Store Regular
+64747,CUST_64747,Robin,Burnett,robin.burnett@yahoo.com,Fort Worth,Premium Shopper
+65139,CUST_65139,Brianna,Smith,brianna.smith@gmail.com,Oklahoma City,In-Store Regular
+65282,CUST_65282,Katherine,Sullivan,katherine.sullivan@gmail.com,Baltimore,In-Store Regular
+65374,CUST_65374,Matthew,Cameron,matthew.cameron@outlook.com,Colorado Springs,In-Store Regular
+65428,CUST_65428,William,Mcfarland,william.mcfarland@outlook.com,Oklahoma City,Churn Risk
+65783,CUST_65783,Joshua,Pearson,joshua.pearson@gmail.com,Oakland,Occasional Shopper
+65815,CUST_65815,Daniel,Andrews,daniel.andrews@gmail.com,El Paso,In-Store Regular
+65817,CUST_65817,Christopher,Colon,christopher.colon@yahoo.com,Colorado Springs,High Value
+65904,CUST_65904,Kyle,Lee,kyle.lee@outlook.com,Boston,Occasional Shopper
+65957,CUST_65957,Sandra,Phillips,sandra.phillips@gmail.com,Baltimore,Occasional Shopper
+65975,CUST_65975,Jill,Allen,jill.allen@outlook.com,Oklahoma City,Churn Risk
+66009,CUST_66009,Walter,Ray,walter.ray@gmail.com,San Jose,Churn Risk
+66016,CUST_66016,Richard,Rodriguez,richard.rodriguez@outlook.com,Charlotte,Online Shopper
+66025,CUST_66025,Aaron,Mayo,aaron.mayo@gmail.com,Jacksonville,In-Store Regular
+66141,CUST_66141,Christopher,Garcia,christopher.garcia@yahoo.com,Raleigh,Budget Shopper
+66186,CUST_66186,Jesse,Meyers,jesse.meyers@outlook.com,Philadelphia,Online Shopper
+66244,CUST_66244,William,Martinez,william.martinez@gmail.com,San Francisco,High Value
+66357,CUST_66357,Thomas,Wilcox,thomas.wilcox@outlook.com,San Antonio,Online Shopper
+66366,CUST_66366,Ryan,Wheeler,ryan.wheeler@outlook.com,Oklahoma City,Premium Shopper
+66406,CUST_66406,Ryan,Warren,ryan.warren@yahoo.com,Sacramento,Deal Seeker
+66463,CUST_66463,Brian,Fox,brian.fox@yahoo.com,San Antonio,First-time Buyer
+66499,CUST_66499,Brian,Parks,brian.parks@yahoo.com,Austin,In-Store Regular
+66501,CUST_66501,Joseph,Riley,joseph.riley@yahoo.com,Detroit,Deal Seeker
+66504,CUST_66504,Nicole,Becker,nicole.becker@outlook.com,Long Beach,Deal Seeker
+66557,CUST_66557,Jay,Ortiz,jay.ortiz@gmail.com,New Orleans,Budget Shopper
+66591,CUST_66591,Douglas,Mccoy,douglas.mccoy@yahoo.com,Denver,Churn Risk
+66647,CUST_66647,Wendy,Decker,wendy.decker@gmail.com,New Orleans,In-Store Regular
+66713,CUST_66713,Christine,Hanson,christine.hanson@yahoo.com,Mesa,In-Store Regular
+66782,CUST_66782,Ann,Peterson,ann.peterson@outlook.com,Virginia Beach,Budget Shopper
+66893,CUST_66893,Christina,James,christina.james@yahoo.com,Oakland,Premium Shopper
+67104,CUST_67104,Chris,Ramos,chris.ramos@yahoo.com,Nashville,Occasional Shopper
+67167,CUST_67167,Christine,Merritt,christine.merritt@outlook.com,Oklahoma City,Churn Risk
+67222,CUST_67222,Martin,Jefferson,martin.jefferson@yahoo.com,San Jose,Budget Shopper
+67245,CUST_67245,Bryan,Lewis,bryan.lewis@yahoo.com,Oakland,Loyal Customer
+67313,CUST_67313,Kelly,Williams,kelly.williams@outlook.com,Atlanta,Budget Shopper
+67587,CUST_67587,Morgan,Nichols,morgan.nichols@yahoo.com,Las Vegas,Online Shopper
+67653,CUST_67653,Jennifer,Trevino,jennifer.trevino@outlook.com,Louisville,Deal Seeker
+67752,CUST_67752,Amanda,Turner,amanda.turner@yahoo.com,San Antonio,Churn Risk
+67815,CUST_67815,James,Shelton,james.shelton@gmail.com,Raleigh,Occasional Shopper
+67817,CUST_67817,Brandon,George,brandon.george@gmail.com,Boston,First-time Buyer
+67919,CUST_67919,Tammy,Lopez,tammy.lopez@gmail.com,San Antonio,First-time Buyer
+68008,CUST_68008,Elijah,Brown,elijah.brown@outlook.com,Dallas,In-Store Regular
+68075,CUST_68075,Joseph,Young,joseph.young@yahoo.com,Mesa,Premium Shopper
+68079,CUST_68079,Eileen,Brooks,eileen.brooks@yahoo.com,Colorado Springs,Loyal Customer
+68155,CUST_68155,Martin,Ryan,martin.ryan@outlook.com,Fresno,Budget Shopper
+68169,CUST_68169,Kimberly,Morton,kimberly.morton@outlook.com,San Jose,First-time Buyer
+68209,CUST_68209,Kristina,Thompson,kristina.thompson@outlook.com,New York,Occasional Shopper
+68273,CUST_68273,Angela,Mayer,angela.mayer@outlook.com,El Paso,Loyal Customer
+68275,CUST_68275,Barbara,Carter,barbara.carter@yahoo.com,Portland,Occasional Shopper
+68288,CUST_68288,Ryan,Peterson,ryan.peterson@gmail.com,San Diego,In-Store Regular
+68363,CUST_68363,Tamara,Stewart,tamara.stewart@gmail.com,Nashville,First-time Buyer
+68370,CUST_68370,Destiny,Hood,destiny.hood@outlook.com,Colorado Springs,Loyal Customer
+68383,CUST_68383,Jamie,Turner,jamie.turner@yahoo.com,Kansas City,High Value
+68428,CUST_68428,Gabriel,Avila,gabriel.avila@outlook.com,Kansas City,Churn Risk
+68511,CUST_68511,Ian,Johnson,ian.johnson@yahoo.com,Memphis,First-time Buyer
+68779,CUST_68779,Christopher,Baldwin,christopher.baldwin@gmail.com,Chicago,Loyal Customer
+68815,CUST_68815,Laura,Warren,laura.warren@yahoo.com,Houston,Online Shopper
+68838,CUST_68838,Tricia,Jensen,tricia.jensen@outlook.com,Charlotte,Occasional Shopper
+68857,CUST_68857,Vernon,Coffey,vernon.coffey@outlook.com,Boston,First-time Buyer
+69091,CUST_69091,Heather,Mitchell,heather.mitchell@yahoo.com,Columbus,Premium Shopper
+69256,CUST_69256,Christina,Guzman,christina.guzman@gmail.com,Columbus,High Value
+69281,CUST_69281,Kelsey,Rodriguez,kelsey.rodriguez@outlook.com,New Orleans,Budget Shopper
+69317,CUST_69317,Cheryl,Norton,cheryl.norton@outlook.com,Arlington,Online Shopper
+69326,CUST_69326,Tamara,Wright,tamara.wright@gmail.com,Dallas,In-Store Regular
+69492,CUST_69492,Tammy,Ramirez,tammy.ramirez@outlook.com,El Paso,Budget Shopper
+69495,CUST_69495,Susan,Murray,susan.murray@gmail.com,Jacksonville,In-Store Regular
+69527,CUST_69527,Stephanie,Smith,stephanie.smith@outlook.com,Indianapolis,Premium Shopper
+69771,CUST_69771,Jennifer,Brock,jennifer.brock@outlook.com,San Francisco,Loyal Customer
+69880,CUST_69880,Mark,Arnold,mark.arnold@outlook.com,Mesa,In-Store Regular
+69890,CUST_69890,Darlene,Valentine,darlene.valentine@outlook.com,Philadelphia,In-Store Regular
+69913,CUST_69913,Bryan,Robinson,bryan.robinson@outlook.com,Miami,Loyal Customer
+69930,CUST_69930,Richard,Hall,richard.hall@gmail.com,Charlotte,Online Shopper
+70051,CUST_70051,Brian,Brandt,brian.brandt@gmail.com,Louisville,Occasional Shopper
+70119,CUST_70119,Mark,Bishop,mark.bishop@yahoo.com,San Jose,Premium Shopper
+70219,CUST_70219,Kristy,Fields,kristy.fields@yahoo.com,Atlanta,High Value
+70264,CUST_70264,Oscar,Valentine,oscar.valentine@yahoo.com,San Antonio,Churn Risk
+70271,CUST_70271,Kristen,Wyatt,kristen.wyatt@gmail.com,Nashville,Premium Shopper
+70385,CUST_70385,Mary,Campbell,mary.campbell@outlook.com,Minneapolis,In-Store Regular
+70389,CUST_70389,Thomas,Cobb,thomas.cobb@yahoo.com,Washington,In-Store Regular
+70403,CUST_70403,Scott,Kelly,scott.kelly@gmail.com,Albuquerque,First-time Buyer
+70433,CUST_70433,Roberto,Mcdaniel,roberto.mcdaniel@outlook.com,Phoenix,First-time Buyer
+70438,CUST_70438,Christina,Pham,christina.pham@yahoo.com,Oakland,Deal Seeker
+70690,CUST_70690,Darryl,Jordan,darryl.jordan@outlook.com,San Diego,Premium Shopper
+70693,CUST_70693,Daniel,Buchanan,daniel.buchanan@gmail.com,San Diego,Deal Seeker
+70841,CUST_70841,Pamela,Martinez,pamela.martinez@yahoo.com,Long Beach,Budget Shopper
+70842,CUST_70842,Jessica,Morton,jessica.morton@gmail.com,Washington,Online Shopper
+70935,CUST_70935,Melissa,Morris,melissa.morris@yahoo.com,Milwaukee,Loyal Customer
+70957,CUST_70957,Daniel,Wright,daniel.wright@outlook.com,Detroit,Online Shopper
+71040,CUST_71040,Autumn,Day,autumn.day@gmail.com,Oakland,Deal Seeker
+71179,CUST_71179,Dawn,Morales,dawn.morales@gmail.com,Las Vegas,First-time Buyer
+71255,CUST_71255,Erin,Johnson,erin.johnson@outlook.com,Las Vegas,Budget Shopper
+71262,CUST_71262,Gary,Holt,gary.holt@outlook.com,Sacramento,Online Shopper
+71313,CUST_71313,John,Diaz,john.diaz@outlook.com,Arlington,In-Store Regular
+71323,CUST_71323,Melissa,Watson,melissa.watson@outlook.com,New York,Loyal Customer
+71363,CUST_71363,Tracey,Johnson,tracey.johnson@gmail.com,New Orleans,Online Shopper
+71461,CUST_71461,Anthony,Fox,anthony.fox@outlook.com,Portland,Occasional Shopper
+71582,CUST_71582,Stephanie,Pierce,stephanie.pierce@outlook.com,Virginia Beach,High Value
+71583,CUST_71583,Lindsey,Villegas,lindsey.villegas@yahoo.com,Virginia Beach,Budget Shopper
+71634,CUST_71634,Duane,Taylor,duane.taylor@yahoo.com,Long Beach,Deal Seeker
+71655,CUST_71655,Janet,Martinez,janet.martinez@gmail.com,Seattle,Loyal Customer
+71673,CUST_71673,James,Smith,james.smith@yahoo.com,Minneapolis,Deal Seeker
+71688,CUST_71688,Gregory,Munoz,gregory.munoz@gmail.com,Memphis,Churn Risk
+71891,CUST_71891,Heather,Williams,heather.williams@gmail.com,Dallas,Deal Seeker
+71949,CUST_71949,Jay,Parker,jay.parker@gmail.com,Colorado Springs,Churn Risk
+71953,CUST_71953,Marissa,Silva,marissa.silva@outlook.com,Philadelphia,Online Shopper
+71997,CUST_71997,Raymond,Russell,raymond.russell@gmail.com,San Diego,Premium Shopper
+72014,CUST_72014,Mike,Taylor,mike.taylor@gmail.com,Charlotte,High Value
+72069,CUST_72069,Ronald,Schmidt,ronald.schmidt@gmail.com,San Jose,Deal Seeker
+72171,CUST_72171,Donna,Miller,donna.miller@yahoo.com,Charlotte,In-Store Regular
+72280,CUST_72280,Alyssa,Collins,alyssa.collins@yahoo.com,San Francisco,First-time Buyer
+72310,CUST_72310,Kara,Schmidt,kara.schmidt@gmail.com,Milwaukee,High Value
+72335,CUST_72335,Jamie,Lyons,jamie.lyons@gmail.com,Tucson,High Value
+72359,CUST_72359,Kevin,Silva,kevin.silva@yahoo.com,Nashville,Occasional Shopper
+72381,CUST_72381,Kristen,Snyder,kristen.snyder@outlook.com,Boston,Occasional Shopper
+72458,CUST_72458,Molly,English,molly.english@yahoo.com,Charlotte,High Value
+72557,CUST_72557,Arthur,Miller,arthur.miller@gmail.com,Fresno,Deal Seeker
+72610,CUST_72610,Jose,Christensen,jose.christensen@gmail.com,Boston,Online Shopper
+72669,CUST_72669,Jessica,Greene,jessica.greene@gmail.com,San Diego,Premium Shopper
+72701,CUST_72701,Sydney,White,sydney.white@yahoo.com,Denver,Occasional Shopper
+72735,CUST_72735,Jeffrey,Hamilton,jeffrey.hamilton@outlook.com,Oklahoma City,In-Store Regular
+72822,CUST_72822,Cody,Perkins,cody.perkins@yahoo.com,Miami,Occasional Shopper
+72840,CUST_72840,Karen,Rivera,karen.rivera@gmail.com,Kansas City,Deal Seeker
+72930,CUST_72930,Dustin,Patterson,dustin.patterson@outlook.com,Miami,Loyal Customer
+72976,CUST_72976,Angela,Galvan,angela.galvan@outlook.com,New Orleans,Churn Risk
+73036,CUST_73036,Dustin,Rush,dustin.rush@gmail.com,Portland,Loyal Customer
+73190,CUST_73190,Shane,Morgan,shane.morgan@gmail.com,Jacksonville,First-time Buyer
+73214,CUST_73214,Shawn,Alexander,shawn.alexander@outlook.com,Dallas,Loyal Customer
+73299,CUST_73299,Bobby,Osborn,bobby.osborn@yahoo.com,Baltimore,Budget Shopper
+73361,CUST_73361,Jason,Howard,jason.howard@outlook.com,Denver,In-Store Regular
+73434,CUST_73434,Paul,Dunn,paul.dunn@yahoo.com,Austin,Budget Shopper
+73440,CUST_73440,Anthony,Robinson,anthony.robinson@yahoo.com,Seattle,Premium Shopper
+73589,CUST_73589,Andrea,Johnson,andrea.johnson@yahoo.com,Houston,Deal Seeker
+73612,CUST_73612,Charles,Jones,charles.jones@yahoo.com,Albuquerque,Deal Seeker
+73806,CUST_73806,Jason,Wiley,jason.wiley@gmail.com,Washington,Deal Seeker
+73965,CUST_73965,Sherry,Lawson,sherry.lawson@outlook.com,Memphis,Online Shopper
+74050,CUST_74050,Curtis,Malone,curtis.malone@outlook.com,Mesa,Churn Risk
+74095,CUST_74095,Cynthia,Mitchell,cynthia.mitchell@gmail.com,New Orleans,Occasional Shopper
+74176,CUST_74176,Jamie,Yang,jamie.yang@outlook.com,San Francisco,Premium Shopper
+74244,CUST_74244,Jeremy,Bond,jeremy.bond@outlook.com,Memphis,Loyal Customer
+74308,CUST_74308,Troy,Clark,troy.clark@outlook.com,Arlington,In-Store Regular
+74419,CUST_74419,Alexander,Duarte,alexander.duarte@gmail.com,Detroit,Online Shopper
+74527,CUST_74527,Jason,Thomas,jason.thomas@yahoo.com,Nashville,Online Shopper
+74626,CUST_74626,Christina,Hodge,christina.hodge@yahoo.com,San Francisco,In-Store Regular
+74692,CUST_74692,Robert,Shaffer,robert.shaffer@yahoo.com,Fort Worth,Deal Seeker
+74897,CUST_74897,Nicole,Tyler,nicole.tyler@outlook.com,Louisville,Premium Shopper
+74943,CUST_74943,Jennifer,Dorsey,jennifer.dorsey@outlook.com,Omaha,Deal Seeker
+75047,CUST_75047,Jennifer,Griffith,jennifer.griffith@outlook.com,Memphis,Occasional Shopper
+75073,CUST_75073,Steve,Keith,steve.keith@yahoo.com,Columbus,Premium Shopper
+75077,CUST_75077,Olivia,Peters,olivia.peters@outlook.com,Oklahoma City,High Value
+75164,CUST_75164,Robin,Hunt,robin.hunt@outlook.com,San Diego,Loyal Customer
+75197,CUST_75197,Hayley,King,hayley.king@gmail.com,Houston,High Value
+75229,CUST_75229,Christopher,Williamson,christopher.williamson@yahoo.com,Tucson,Churn Risk
+75292,CUST_75292,Joseph,Wagner,joseph.wagner@yahoo.com,Minneapolis,In-Store Regular
+75369,CUST_75369,Eric,Castillo,eric.castillo@yahoo.com,Milwaukee,Online Shopper
+75378,CUST_75378,Andrea,Cox,andrea.cox@yahoo.com,Oakland,Premium Shopper
+75512,CUST_75512,Alexis,Wade,alexis.wade@yahoo.com,Long Beach,Deal Seeker
+75531,CUST_75531,Matthew,Fisher,matthew.fisher@outlook.com,Baltimore,Deal Seeker
+75545,CUST_75545,Donald,Cohen,donald.cohen@gmail.com,Memphis,Online Shopper
+75615,CUST_75615,Joshua,Sparks,joshua.sparks@outlook.com,Detroit,In-Store Regular
+75675,CUST_75675,Mary,Shaw,mary.shaw@gmail.com,Houston,Churn Risk
+75677,CUST_75677,Michele,Alexander,michele.alexander@gmail.com,Boston,Online Shopper
+75678,CUST_75678,David,Osborne,david.osborne@yahoo.com,Denver,Budget Shopper
+75760,CUST_75760,Courtney,Guzman,courtney.guzman@yahoo.com,Virginia Beach,High Value
+75873,CUST_75873,Margaret,Miller,margaret.miller@gmail.com,Raleigh,First-time Buyer
+76003,CUST_76003,Crystal,Hernandez,crystal.hernandez@outlook.com,Los Angeles,Budget Shopper
+76047,CUST_76047,Thomas,Cruz,thomas.cruz@gmail.com,Portland,First-time Buyer
+76178,CUST_76178,Jessica,Wilson,jessica.wilson@yahoo.com,San Jose,Occasional Shopper
+76217,CUST_76217,Joseph,Barnes,joseph.barnes@yahoo.com,Seattle,Deal Seeker
+76241,CUST_76241,Mary,Cunningham,mary.cunningham@yahoo.com,New Orleans,First-time Buyer
+76255,CUST_76255,Ashley,Parks,ashley.parks@outlook.com,Indianapolis,Budget Shopper
+76366,CUST_76366,Anita,Jimenez,anita.jimenez@gmail.com,Tulsa,Online Shopper
+76405,CUST_76405,Eric,Macias,eric.macias@yahoo.com,Atlanta,Churn Risk
+76527,CUST_76527,Michael,Pollard,michael.pollard@yahoo.com,Philadelphia,First-time Buyer
+76578,CUST_76578,Rachel,Garcia,rachel.garcia@yahoo.com,Jacksonville,In-Store Regular
+76591,CUST_76591,Elizabeth,Donovan,elizabeth.donovan@outlook.com,Long Beach,Deal Seeker
+76594,CUST_76594,Jose,Price,jose.price@yahoo.com,Tucson,Deal Seeker
+76711,CUST_76711,Daniel,Sullivan,daniel.sullivan@gmail.com,Houston,Premium Shopper
+76770,CUST_76770,Adam,Norman,adam.norman@yahoo.com,Tulsa,Deal Seeker
+76888,CUST_76888,Russell,Smith,russell.smith@gmail.com,Fresno,Online Shopper
+76966,CUST_76966,Glenn,Turner,glenn.turner@yahoo.com,New York,Budget Shopper
+76988,CUST_76988,Todd,Ramirez,todd.ramirez@yahoo.com,Mesa,Loyal Customer
+77063,CUST_77063,Lucas,Paul,lucas.paul@outlook.com,Mesa,Deal Seeker
+77108,CUST_77108,Robert,George,robert.george@gmail.com,Nashville,Churn Risk
+77210,CUST_77210,Cynthia,Case,cynthia.case@outlook.com,Long Beach,Online Shopper
+77364,CUST_77364,Clifford,Parker,clifford.parker@outlook.com,Atlanta,Loyal Customer
+77386,CUST_77386,Erin,Martin,erin.martin@gmail.com,Long Beach,First-time Buyer
+77608,CUST_77608,Patrick,Estes,patrick.estes@gmail.com,Denver,Churn Risk
+77618,CUST_77618,Matthew,Bowers,matthew.bowers@gmail.com,Oakland,Occasional Shopper
+77651,CUST_77651,Marco,Ball,marco.ball@yahoo.com,Columbus,Online Shopper
+77661,CUST_77661,Margaret,Fletcher,margaret.fletcher@outlook.com,El Paso,Budget Shopper
+77676,CUST_77676,Scott,Wiley,scott.wiley@outlook.com,Dallas,Budget Shopper
+77739,CUST_77739,Peter,Wiggins,peter.wiggins@yahoo.com,New Orleans,In-Store Regular
+77835,CUST_77835,Paul,Johnson,paul.johnson@yahoo.com,Virginia Beach,Deal Seeker
+78000,CUST_78000,Rachael,Hayes,rachael.hayes@yahoo.com,Atlanta,Premium Shopper
+78061,CUST_78061,Rachel,Smith,rachel.smith@gmail.com,Oklahoma City,Deal Seeker
+78175,CUST_78175,Christopher,Peterson,christopher.peterson@gmail.com,Phoenix,Online Shopper
+78225,CUST_78225,James,Ramirez,james.ramirez@yahoo.com,Tampa,In-Store Regular
+78268,CUST_78268,Kathryn,Lopez,kathryn.lopez@outlook.com,Memphis,Loyal Customer
+78353,CUST_78353,Gabriela,Cardenas,gabriela.cardenas@gmail.com,Oakland,Premium Shopper
+78385,CUST_78385,Amy,Nelson,amy.nelson@gmail.com,Jacksonville,In-Store Regular
+78429,CUST_78429,Amy,Munoz,amy.munoz@gmail.com,Baltimore,Loyal Customer
+78512,CUST_78512,Jason,Hayden,jason.hayden@yahoo.com,Louisville,Budget Shopper
+78582,CUST_78582,Samantha,Gallegos,samantha.gallegos@outlook.com,Baltimore,Premium Shopper
+78594,CUST_78594,Brian,Howard,brian.howard@outlook.com,Oklahoma City,Churn Risk
+78685,CUST_78685,Lisa,Hebert,lisa.hebert@yahoo.com,Fort Worth,First-time Buyer
+78710,CUST_78710,Alexis,Hubbard,alexis.hubbard@outlook.com,Raleigh,In-Store Regular
+78802,CUST_78802,Robert,Ruiz,robert.ruiz@yahoo.com,Oklahoma City,Budget Shopper
+78812,CUST_78812,John,Boyd,john.boyd@outlook.com,New Orleans,Online Shopper
+78876,CUST_78876,Stephen,Robbins,stephen.robbins@outlook.com,Los Angeles,Online Shopper
+78897,CUST_78897,David,King,david.king@gmail.com,Chicago,In-Store Regular
+79055,CUST_79055,Miranda,Rojas,miranda.rojas@outlook.com,Las Vegas,Premium Shopper
+79337,CUST_79337,Stephanie,Smith,stephanie.smith@yahoo.com,Albuquerque,Budget Shopper
+79365,CUST_79365,Samuel,Alexander,samuel.alexander@outlook.com,New Orleans,First-time Buyer
+79531,CUST_79531,Rebecca,Adams,rebecca.adams@outlook.com,Denver,Loyal Customer
+79559,CUST_79559,Brittany,Brown,brittany.brown@gmail.com,Charlotte,High Value
+79565,CUST_79565,Karen,Tyler,karen.tyler@yahoo.com,Omaha,In-Store Regular
+79760,CUST_79760,Arthur,Savage,arthur.savage@gmail.com,Columbus,Loyal Customer
+79864,CUST_79864,Cristian,Day,cristian.day@gmail.com,San Francisco,First-time Buyer
+79924,CUST_79924,Donald,Blair,donald.blair@outlook.com,Boston,In-Store Regular
+79931,CUST_79931,Miguel,Roberts,miguel.roberts@outlook.com,San Francisco,In-Store Regular
+79957,CUST_79957,Tammy,Rodgers,tammy.rodgers@gmail.com,Philadelphia,First-time Buyer
+80015,CUST_80015,Chad,Hopkins,chad.hopkins@outlook.com,San Francisco,Churn Risk
+80114,CUST_80114,Scott,Vasquez,scott.vasquez@yahoo.com,Denver,Budget Shopper
+80143,CUST_80143,Gary,Harris,gary.harris@gmail.com,Chicago,First-time Buyer
+80255,CUST_80255,Marcus,Vega,marcus.vega@gmail.com,Phoenix,Churn Risk
+80305,CUST_80305,Zachary,Brown,zachary.brown@gmail.com,Colorado Springs,Budget Shopper
+80370,CUST_80370,Paul,Greene,paul.greene@yahoo.com,Boston,High Value
+80493,CUST_80493,Chelsea,Walker,chelsea.walker@gmail.com,Phoenix,Occasional Shopper
+80545,CUST_80545,Richard,Bell,richard.bell@yahoo.com,Raleigh,Churn Risk
+80682,CUST_80682,Brendan,Johnson,brendan.johnson@outlook.com,Kansas City,High Value
+80695,CUST_80695,Madison,Acosta,madison.acosta@gmail.com,Charlotte,High Value
+80708,CUST_80708,Ryan,Beck,ryan.beck@outlook.com,Tulsa,Occasional Shopper
+80922,CUST_80922,Ernest,Garcia,ernest.garcia@yahoo.com,Long Beach,Occasional Shopper
+80927,CUST_80927,Sierra,Martin,sierra.martin@outlook.com,Tucson,High Value
+80930,CUST_80930,Vanessa,Allen,vanessa.allen@gmail.com,Dallas,Loyal Customer
+81084,CUST_81084,Nicole,Houston,nicole.houston@gmail.com,Nashville,In-Store Regular
+81178,CUST_81178,Valerie,Shaw,valerie.shaw@yahoo.com,Philadelphia,First-time Buyer
+81211,CUST_81211,Daniel,Nielsen,daniel.nielsen@outlook.com,Omaha,Occasional Shopper
+81234,CUST_81234,Mary,Figueroa,mary.figueroa@outlook.com,Tucson,Premium Shopper
+81455,CUST_81455,Steven,Johnson,steven.johnson@gmail.com,Milwaukee,Churn Risk
+81468,CUST_81468,Cody,Boone,cody.boone@outlook.com,Detroit,Budget Shopper
+81500,CUST_81500,Mary,Thompson,mary.thompson@yahoo.com,Virginia Beach,Occasional Shopper
+81590,CUST_81590,Jennifer,White,jennifer.white@outlook.com,Jacksonville,Occasional Shopper
+81654,CUST_81654,Frank,Olsen,frank.olsen@outlook.com,Fresno,Loyal Customer
+81720,CUST_81720,William,Stephens,william.stephens@yahoo.com,Indianapolis,Churn Risk
+81722,CUST_81722,Antonio,Velazquez,antonio.velazquez@yahoo.com,Portland,In-Store Regular
+81768,CUST_81768,Lauren,Harris,lauren.harris@yahoo.com,San Jose,First-time Buyer
+81833,CUST_81833,Joe,Thomas,joe.thomas@gmail.com,Philadelphia,Premium Shopper
+81873,CUST_81873,Rebecca,Myers,rebecca.myers@gmail.com,Long Beach,In-Store Regular
+81953,CUST_81953,Andrew,Nelson,andrew.nelson@yahoo.com,Milwaukee,Loyal Customer
+82227,CUST_82227,Melissa,Adams,melissa.adams@gmail.com,Seattle,Loyal Customer
+82263,CUST_82263,Joshua,Morris,joshua.morris@outlook.com,Memphis,Deal Seeker
+82332,CUST_82332,Christopher,Noble,christopher.noble@outlook.com,El Paso,Loyal Customer
+82487,CUST_82487,Deanna,Wallace,deanna.wallace@outlook.com,Tampa,High Value
+82541,CUST_82541,Ronnie,Parker,ronnie.parker@outlook.com,Los Angeles,Churn Risk
+82605,CUST_82605,Larry,Griffith,larry.griffith@outlook.com,Long Beach,Online Shopper
+82629,CUST_82629,Jeffery,Turner,jeffery.turner@yahoo.com,San Francisco,Loyal Customer
+82660,CUST_82660,Francisco,Holder,francisco.holder@yahoo.com,Los Angeles,Premium Shopper
+82661,CUST_82661,Jessica,Reynolds,jessica.reynolds@yahoo.com,Austin,Online Shopper
+82800,CUST_82800,Kyle,Adams,kyle.adams@outlook.com,Houston,Loyal Customer
+82813,CUST_82813,Rachel,Hobbs,rachel.hobbs@gmail.com,Raleigh,High Value
+82858,CUST_82858,Ian,Larson,ian.larson@gmail.com,Phoenix,Budget Shopper
+82892,CUST_82892,Anthony,Smith,anthony.smith@outlook.com,Detroit,Deal Seeker
+82913,CUST_82913,Charles,Phillips,charles.phillips@gmail.com,Colorado Springs,Budget Shopper
+82985,CUST_82985,Julie,Richards,julie.richards@gmail.com,Boston,In-Store Regular
+83112,CUST_83112,Larry,Dawson,larry.dawson@outlook.com,Charlotte,Occasional Shopper
+83149,CUST_83149,Brandon,Lopez,brandon.lopez@gmail.com,Atlanta,Churn Risk
+83199,CUST_83199,Tracey,Parks,tracey.parks@gmail.com,Colorado Springs,High Value
+83341,CUST_83341,Randall,Moore,randall.moore@gmail.com,Austin,Occasional Shopper
+83391,CUST_83391,Anita,Owens,anita.owens@gmail.com,San Jose,Occasional Shopper
+83461,CUST_83461,Zachary,Vargas,zachary.vargas@gmail.com,San Diego,Premium Shopper
+83507,CUST_83507,Kimberly,Nguyen,kimberly.nguyen@outlook.com,Minneapolis,Budget Shopper
+83589,CUST_83589,Teresa,Hernandez,teresa.hernandez@outlook.com,San Diego,Churn Risk
+83607,CUST_83607,Matthew,Flores,matthew.flores@outlook.com,Raleigh,Occasional Shopper
+83658,CUST_83658,Shannon,Larson,shannon.larson@outlook.com,Philadelphia,Loyal Customer
+83665,CUST_83665,Ariel,Palmer,ariel.palmer@gmail.com,Chicago,Premium Shopper
+83673,CUST_83673,Joseph,Rivas,joseph.rivas@gmail.com,Mesa,Churn Risk
+83678,CUST_83678,Andrew,Tate,andrew.tate@outlook.com,Phoenix,Churn Risk
+84079,CUST_84079,Michelle,Banks,michelle.banks@outlook.com,Houston,High Value
+84080,CUST_84080,Nicole,Hughes,nicole.hughes@yahoo.com,Albuquerque,Churn Risk
+84115,CUST_84115,Laura,Hoffman,laura.hoffman@outlook.com,Minneapolis,Loyal Customer
+84160,CUST_84160,Barry,White,barry.white@outlook.com,Sacramento,High Value
+84218,CUST_84218,Peter,Mueller,peter.mueller@outlook.com,Memphis,High Value
+84297,CUST_84297,Timothy,Best,timothy.best@outlook.com,Baltimore,Occasional Shopper
+84308,CUST_84308,Bradley,Hill,bradley.hill@gmail.com,Atlanta,First-time Buyer
+84422,CUST_84422,Tonya,Campbell,tonya.campbell@outlook.com,San Jose,Deal Seeker
+84423,CUST_84423,Alexis,Rivera,alexis.rivera@outlook.com,Chicago,Online Shopper
+84450,CUST_84450,Richard,Barajas,richard.barajas@yahoo.com,Virginia Beach,High Value
+84495,CUST_84495,Robin,Petersen,robin.petersen@gmail.com,El Paso,Loyal Customer
+84544,CUST_84544,Harold,Howard,harold.howard@outlook.com,Jacksonville,In-Store Regular
+84575,CUST_84575,Nathan,Owens,nathan.owens@outlook.com,Long Beach,Loyal Customer
+84604,CUST_84604,Joshua,Page,joshua.page@gmail.com,Detroit,High Value
+84867,CUST_84867,Benjamin,Berry,benjamin.berry@outlook.com,Chicago,High Value
+85081,CUST_85081,Jeremiah,Norman,jeremiah.norman@gmail.com,Tucson,Deal Seeker
+85193,CUST_85193,Marilyn,Bennett,marilyn.bennett@gmail.com,Mesa,High Value
+85214,CUST_85214,Carol,Brown,carol.brown@outlook.com,Philadelphia,Occasional Shopper
+85302,CUST_85302,Brandon,Wilson,brandon.wilson@gmail.com,Raleigh,Online Shopper
+85313,CUST_85313,Taylor,Murphy,taylor.murphy@gmail.com,Dallas,Churn Risk
+85322,CUST_85322,Jennifer,Wilson,jennifer.wilson@yahoo.com,Raleigh,Loyal Customer
+85433,CUST_85433,Matthew,Martin,matthew.martin@outlook.com,Memphis,Deal Seeker
+85496,CUST_85496,Nicole,Doyle,nicole.doyle@outlook.com,Detroit,First-time Buyer
+85689,CUST_85689,Eric,Cochran,eric.cochran@gmail.com,Boston,Occasional Shopper
+85691,CUST_85691,Jacqueline,Watts,jacqueline.watts@yahoo.com,Austin,Online Shopper
+85732,CUST_85732,Sheri,Hughes,sheri.hughes@yahoo.com,Oklahoma City,Budget Shopper
+85824,CUST_85824,Gary,Vargas,gary.vargas@yahoo.com,Atlanta,Loyal Customer
+85829,CUST_85829,Shawna,Perez,shawna.perez@outlook.com,San Jose,Online Shopper
+85881,CUST_85881,Kevin,Harvey,kevin.harvey@outlook.com,Omaha,First-time Buyer
+85908,CUST_85908,Alicia,Sanchez,alicia.sanchez@gmail.com,Los Angeles,Loyal Customer
+85965,CUST_85965,Eric,Smith,eric.smith@outlook.com,Austin,Budget Shopper
+85972,CUST_85972,Mariah,Wallace,mariah.wallace@yahoo.com,Arlington,Churn Risk
+85985,CUST_85985,Kerry,Henderson,kerry.henderson@outlook.com,Columbus,High Value
+86064,CUST_86064,Tara,Briggs,tara.briggs@gmail.com,Boston,Loyal Customer
+86086,CUST_86086,Christopher,Johnson,christopher.johnson@yahoo.com,Sacramento,Churn Risk
+86310,CUST_86310,Yvonne,Peterson,yvonne.peterson@gmail.com,Detroit,Occasional Shopper
+86362,CUST_86362,Steve,Walls,steve.walls@gmail.com,Denver,First-time Buyer
+86492,CUST_86492,Jessica,Allen,jessica.allen@outlook.com,Las Vegas,In-Store Regular
+86507,CUST_86507,Nicholas,Carroll,nicholas.carroll@outlook.com,Denver,High Value
+86524,CUST_86524,Lauren,Rice,lauren.rice@yahoo.com,San Jose,Deal Seeker
+86605,CUST_86605,Lisa,Boyd,lisa.boyd@outlook.com,Charlotte,High Value
+86606,CUST_86606,Larry,Terry,larry.terry@gmail.com,New Orleans,Deal Seeker
+86761,CUST_86761,Jacob,Russell,jacob.russell@outlook.com,Denver,Budget Shopper
+86849,CUST_86849,Angela,Smith,angela.smith@gmail.com,Los Angeles,In-Store Regular
+87007,CUST_87007,Jesse,Clayton,jesse.clayton@gmail.com,Nashville,Online Shopper
+87101,CUST_87101,Tanya,Conrad,tanya.conrad@outlook.com,Oakland,High Value
+87102,CUST_87102,Miguel,Simmons,miguel.simmons@yahoo.com,Baltimore,Online Shopper
+87132,CUST_87132,Eric,Perez,eric.perez@yahoo.com,Louisville,Loyal Customer
+87271,CUST_87271,Nicholas,Brown,nicholas.brown@gmail.com,Oklahoma City,Loyal Customer
+87279,CUST_87279,Adrienne,Palmer,adrienne.palmer@yahoo.com,Charlotte,Loyal Customer
+87325,CUST_87325,Loretta,Nicholson,loretta.nicholson@gmail.com,San Antonio,High Value
+87520,CUST_87520,Kelly,Williams,kelly.williams@outlook.com,San Jose,First-time Buyer
+87554,CUST_87554,Whitney,Campbell,whitney.campbell@outlook.com,Denver,First-time Buyer
+87617,CUST_87617,Crystal,Colon,crystal.colon@gmail.com,Sacramento,Online Shopper
+87666,CUST_87666,Alejandro,Richardson,alejandro.richardson@gmail.com,Virginia Beach,Deal Seeker
+87694,CUST_87694,Nancy,Cooper,nancy.cooper@gmail.com,San Antonio,High Value
+87811,CUST_87811,Nathan,Fields,nathan.fields@gmail.com,Kansas City,Budget Shopper
+87829,CUST_87829,Nicole,Rivas,nicole.rivas@yahoo.com,Oklahoma City,Online Shopper
+87841,CUST_87841,Glenn,Ford,glenn.ford@outlook.com,Mesa,Deal Seeker
+87964,CUST_87964,Matthew,Kelley,matthew.kelley@yahoo.com,Houston,Budget Shopper
+88002,CUST_88002,Rodney,Thomas,rodney.thomas@outlook.com,Fresno,Churn Risk
+88019,CUST_88019,Juan,Parker,juan.parker@gmail.com,San Diego,Online Shopper
+88111,CUST_88111,Stephanie,Torres,stephanie.torres@gmail.com,Raleigh,High Value
+88114,CUST_88114,Steve,Wright,steve.wright@yahoo.com,San Antonio,Premium Shopper
+88164,CUST_88164,Caitlin,Johns,caitlin.johns@gmail.com,Virginia Beach,High Value
+88208,CUST_88208,Glen,Obrien,glen.obrien@yahoo.com,Phoenix,Occasional Shopper
+88263,CUST_88263,Joseph,Ward,joseph.ward@yahoo.com,Louisville,Loyal Customer
+88297,CUST_88297,Julie,Ross,julie.ross@gmail.com,New York,In-Store Regular
+88376,CUST_88376,John,Kim,john.kim@yahoo.com,New Orleans,Loyal Customer
+88426,CUST_88426,Jesse,Walker,jesse.walker@outlook.com,Kansas City,In-Store Regular
+88437,CUST_88437,Robin,Larson,robin.larson@outlook.com,Phoenix,Churn Risk
+88468,CUST_88468,Yvonne,Barnett,yvonne.barnett@yahoo.com,Atlanta,Deal Seeker
+88608,CUST_88608,Jocelyn,Mcbride,jocelyn.mcbride@yahoo.com,Long Beach,Loyal Customer
+88675,CUST_88675,Bobby,Wood,bobby.wood@outlook.com,Seattle,Deal Seeker
+88756,CUST_88756,Jacob,Collins,jacob.collins@yahoo.com,Atlanta,Churn Risk
+88863,CUST_88863,Richard,Moran,richard.moran@yahoo.com,Houston,High Value
+89027,CUST_89027,Jacqueline,Joseph,jacqueline.joseph@outlook.com,Long Beach,Premium Shopper
+89140,CUST_89140,Mary,Torres,mary.torres@yahoo.com,Miami,High Value
+89219,CUST_89219,Raymond,Rivers,raymond.rivers@yahoo.com,Philadelphia,Churn Risk
+89264,CUST_89264,Jeffrey,Kennedy,jeffrey.kennedy@yahoo.com,Oklahoma City,Premium Shopper
+89346,CUST_89346,Erica,White,erica.white@gmail.com,Indianapolis,High Value
+89353,CUST_89353,Cole,Cook,cole.cook@outlook.com,Baltimore,Online Shopper
+89411,CUST_89411,John,Salas,john.salas@outlook.com,New Orleans,Premium Shopper
+89527,CUST_89527,Kimberly,Olsen,kimberly.olsen@outlook.com,Tulsa,First-time Buyer
+89563,CUST_89563,Daniel,James,daniel.james@yahoo.com,Houston,Occasional Shopper
+89581,CUST_89581,Taylor,Bryan,taylor.bryan@gmail.com,Albuquerque,Deal Seeker
+89620,CUST_89620,Steven,Velasquez,steven.velasquez@outlook.com,Omaha,Budget Shopper
+89651,CUST_89651,Kristin,Burns,kristin.burns@gmail.com,Miami,Online Shopper
+89660,CUST_89660,Hunter,David,hunter.david@yahoo.com,Fresno,Deal Seeker
+89678,CUST_89678,Cynthia,Mendez,cynthia.mendez@gmail.com,Dallas,High Value
+89687,CUST_89687,Charles,Jones,charles.jones@gmail.com,Raleigh,In-Store Regular
+89921,CUST_89921,Robert,Johnston,robert.johnston@outlook.com,Detroit,Loyal Customer
+89930,CUST_89930,Cheryl,Williams,cheryl.williams@gmail.com,Mesa,Budget Shopper
+90140,CUST_90140,John,Russell,john.russell@yahoo.com,Albuquerque,High Value
+90168,CUST_90168,Amanda,Walker,amanda.walker@gmail.com,Tucson,Churn Risk
+90185,CUST_90185,Charles,Michael,charles.michael@gmail.com,Milwaukee,In-Store Regular
+90205,CUST_90205,Ashley,Cannon,ashley.cannon@yahoo.com,Tampa,Premium Shopper
+90225,CUST_90225,Michael,Wright,michael.wright@yahoo.com,Philadelphia,Deal Seeker
+90266,CUST_90266,Sharon,Small,sharon.small@gmail.com,Oakland,High Value
+90297,CUST_90297,Tracy,Stewart,tracy.stewart@gmail.com,Colorado Springs,First-time Buyer
+90425,CUST_90425,Tammy,Brown,tammy.brown@yahoo.com,Virginia Beach,Occasional Shopper
+90438,CUST_90438,Lindsay,Jackson,lindsay.jackson@outlook.com,New Orleans,Premium Shopper
+90500,CUST_90500,Andrew,Nunez,andrew.nunez@gmail.com,Nashville,In-Store Regular
+90592,CUST_90592,Scott,Lewis,scott.lewis@gmail.com,Seattle,Online Shopper
+90600,CUST_90600,Matthew,Johnson,matthew.johnson@gmail.com,Las Vegas,Occasional Shopper
+90706,CUST_90706,Richard,Williams,richard.williams@gmail.com,San Antonio,First-time Buyer
+90710,CUST_90710,Erika,Stanley,erika.stanley@yahoo.com,Indianapolis,Occasional Shopper
+90799,CUST_90799,Jessica,Lee,jessica.lee@yahoo.com,El Paso,Budget Shopper
+90839,CUST_90839,Sierra,Larson,sierra.larson@outlook.com,Columbus,In-Store Regular
+90843,CUST_90843,Stephen,James,stephen.james@yahoo.com,Chicago,Occasional Shopper
+90866,CUST_90866,David,Jones,david.jones@outlook.com,Austin,Budget Shopper
+90957,CUST_90957,Ashley,Watson,ashley.watson@yahoo.com,Los Angeles,Loyal Customer
+91009,CUST_91009,Curtis,Smith,curtis.smith@outlook.com,San Antonio,Budget Shopper
+91065,CUST_91065,Jonathan,Taylor,jonathan.taylor@yahoo.com,Atlanta,Deal Seeker
+91282,CUST_91282,Grace,Anderson,grace.anderson@yahoo.com,Columbus,Budget Shopper
+91336,CUST_91336,Patricia,Robertson,patricia.robertson@outlook.com,Los Angeles,Loyal Customer
+91416,CUST_91416,Courtney,Gomez,courtney.gomez@gmail.com,San Jose,Loyal Customer
+91509,CUST_91509,David,Todd,david.todd@gmail.com,Los Angeles,Premium Shopper
+91692,CUST_91692,Teresa,Johnson,teresa.johnson@yahoo.com,Raleigh,Loyal Customer
+91729,CUST_91729,Eric,Lewis,eric.lewis@outlook.com,Omaha,Deal Seeker
+91755,CUST_91755,Anthony,Donaldson,anthony.donaldson@outlook.com,El Paso,Churn Risk
+91758,CUST_91758,Jason,Banks,jason.banks@yahoo.com,Houston,Online Shopper
+91808,CUST_91808,Jessica,Rose,jessica.rose@gmail.com,Tampa,Churn Risk
+91849,CUST_91849,Patricia,Coffey,patricia.coffey@yahoo.com,Columbus,Online Shopper
+91857,CUST_91857,Sarah,Mayer,sarah.mayer@outlook.com,Indianapolis,Occasional Shopper
+91899,CUST_91899,Lucas,Davis,lucas.davis@gmail.com,Louisville,In-Store Regular
+91956,CUST_91956,Jessica,Miller,jessica.miller@gmail.com,Omaha,Occasional Shopper
+92046,CUST_92046,Matthew,Carlson,matthew.carlson@outlook.com,New York,Loyal Customer
+92152,CUST_92152,Kimberly,Mullen,kimberly.mullen@yahoo.com,San Francisco,Loyal Customer
+92303,CUST_92303,George,Ford,george.ford@outlook.com,Louisville,Premium Shopper
+92396,CUST_92396,Glen,Robinson,glen.robinson@outlook.com,Oklahoma City,First-time Buyer
+92409,CUST_92409,Jose,Robinson,jose.robinson@gmail.com,Austin,Occasional Shopper
+92440,CUST_92440,Holly,Jones,holly.jones@outlook.com,Jacksonville,In-Store Regular
+92567,CUST_92567,Jessica,West,jessica.west@gmail.com,Kansas City,High Value
+92614,CUST_92614,Christopher,Johnson,christopher.johnson@outlook.com,Philadelphia,Churn Risk
+92727,CUST_92727,Ronald,Moran,ronald.moran@gmail.com,Milwaukee,Deal Seeker
+92792,CUST_92792,Carlos,Odom,carlos.odom@outlook.com,Phoenix,Churn Risk
+92883,CUST_92883,Johnny,Ross,johnny.ross@gmail.com,Atlanta,Loyal Customer
+92886,CUST_92886,Michael,Barnes,michael.barnes@gmail.com,New York,First-time Buyer
+92910,CUST_92910,Teresa,Payne,teresa.payne@yahoo.com,New Orleans,Budget Shopper
+93004,CUST_93004,Haley,Wyatt,haley.wyatt@outlook.com,Nashville,Occasional Shopper
+93040,CUST_93040,Adrienne,Johnson,adrienne.johnson@outlook.com,Denver,First-time Buyer
+93075,CUST_93075,Debbie,Taylor,debbie.taylor@outlook.com,Arlington,Occasional Shopper
+93124,CUST_93124,Andrew,Garza,andrew.garza@gmail.com,San Antonio,Loyal Customer
+93194,CUST_93194,Sarah,Leonard,sarah.leonard@yahoo.com,Indianapolis,Churn Risk
+93219,CUST_93219,Paula,Warner,paula.warner@gmail.com,San Francisco,Occasional Shopper
+93401,CUST_93401,Kevin,Higgins,kevin.higgins@outlook.com,Sacramento,Online Shopper
+93493,CUST_93493,John,Gutierrez,john.gutierrez@gmail.com,Mesa,Occasional Shopper
+93507,CUST_93507,Joseph,Alvarez,joseph.alvarez@outlook.com,Oklahoma City,Online Shopper
+93545,CUST_93545,David,Washington,david.washington@yahoo.com,Austin,Budget Shopper
+93597,CUST_93597,Anthony,Rosales,anthony.rosales@gmail.com,Louisville,First-time Buyer
+93706,CUST_93706,Monica,Mullen,monica.mullen@gmail.com,Nashville,Deal Seeker
+93793,CUST_93793,Riley,Stevens,riley.stevens@yahoo.com,Tulsa,Premium Shopper
+93890,CUST_93890,Nicholas,Frederick,nicholas.frederick@gmail.com,San Jose,Occasional Shopper
+93998,CUST_93998,David,Guzman,david.guzman@yahoo.com,Tulsa,High Value
+94033,CUST_94033,Cody,Flynn,cody.flynn@gmail.com,Raleigh,Budget Shopper
+94106,CUST_94106,Charles,Butler,charles.butler@outlook.com,San Francisco,Premium Shopper
+94155,CUST_94155,Sandra,Mccarthy,sandra.mccarthy@yahoo.com,Baltimore,Premium Shopper
+94255,CUST_94255,Joseph,Hood,joseph.hood@gmail.com,Nashville,Deal Seeker
+94352,CUST_94352,Brianna,Burton,brianna.burton@yahoo.com,Chicago,Budget Shopper
+94487,CUST_94487,Gregory,Hall,gregory.hall@gmail.com,Fort Worth,Online Shopper
+94704,CUST_94704,Barbara,Jacobs,barbara.jacobs@outlook.com,Mesa,High Value
+94867,CUST_94867,Brian,Wilson,brian.wilson@yahoo.com,Boston,Occasional Shopper
+94904,CUST_94904,Angela,Peters,angela.peters@yahoo.com,Detroit,In-Store Regular
+94994,CUST_94994,Heather,Smith,heather.smith@gmail.com,Tulsa,High Value
+95000,CUST_95000,Aaron,Fuller,aaron.fuller@outlook.com,Austin,Online Shopper
+95102,CUST_95102,Christina,Hunt,christina.hunt@yahoo.com,Minneapolis,High Value
+95103,CUST_95103,Wendy,Burgess,wendy.burgess@outlook.com,Arlington,Budget Shopper
+95112,CUST_95112,Nathan,Navarro,nathan.navarro@outlook.com,Indianapolis,Churn Risk
+95133,CUST_95133,Victoria,Cook,victoria.cook@yahoo.com,Louisville,Churn Risk
+95169,CUST_95169,Sylvia,Benjamin,sylvia.benjamin@yahoo.com,Las Vegas,Budget Shopper
+95264,CUST_95264,April,Navarro,april.navarro@outlook.com,San Jose,Occasional Shopper
+95347,CUST_95347,Valerie,Diaz,valerie.diaz@outlook.com,Mesa,Occasional Shopper
+95560,CUST_95560,Mary,Ortiz,mary.ortiz@yahoo.com,Chicago,Loyal Customer
+95638,CUST_95638,Amy,Anderson,amy.anderson@yahoo.com,Philadelphia,Deal Seeker
+95684,CUST_95684,John,Decker,john.decker@outlook.com,San Diego,In-Store Regular
+95985,CUST_95985,Bradley,Jones,bradley.jones@gmail.com,New Orleans,Budget Shopper
+95999,CUST_95999,Jeremy,Crawford,jeremy.crawford@yahoo.com,Denver,Loyal Customer
+96013,CUST_96013,Jamie,Miller,jamie.miller@gmail.com,New York,Online Shopper
+96142,CUST_96142,Christine,Jackson,christine.jackson@outlook.com,Indianapolis,Loyal Customer
+96223,CUST_96223,Samantha,Goodwin,samantha.goodwin@yahoo.com,Detroit,First-time Buyer
+96256,CUST_96256,Bill,Santos,bill.santos@outlook.com,Tucson,Occasional Shopper
+96340,CUST_96340,Amanda,Owen,amanda.owen@outlook.com,Seattle,First-time Buyer
+96417,CUST_96417,Jay,Ramos,jay.ramos@outlook.com,Omaha,First-time Buyer
+96548,CUST_96548,Alicia,Moore,alicia.moore@outlook.com,Sacramento,Loyal Customer
+96587,CUST_96587,Johnny,Carson,johnny.carson@outlook.com,Colorado Springs,Occasional Shopper
+96664,CUST_96664,Kyle,Tucker,kyle.tucker@yahoo.com,Las Vegas,High Value
+96733,CUST_96733,Theresa,King,theresa.king@yahoo.com,Sacramento,Occasional Shopper
+96743,CUST_96743,Colleen,Gonzalez,colleen.gonzalez@gmail.com,Kansas City,Deal Seeker
+96776,CUST_96776,Aaron,Harris,aaron.harris@gmail.com,New Orleans,Deal Seeker
+96810,CUST_96810,Sean,Keller,sean.keller@outlook.com,Nashville,Premium Shopper
+96818,CUST_96818,Margaret,Mahoney,margaret.mahoney@yahoo.com,Baltimore,Loyal Customer
+96832,CUST_96832,Christopher,Adams,christopher.adams@outlook.com,Tulsa,Occasional Shopper
+96835,CUST_96835,Eric,Miller,eric.miller@yahoo.com,Miami,Deal Seeker
+96890,CUST_96890,Richard,Baxter,richard.baxter@gmail.com,Tampa,Budget Shopper
+96933,CUST_96933,Johnny,Anderson,johnny.anderson@yahoo.com,Austin,Occasional Shopper
+96986,CUST_96986,Kenneth,Washington,kenneth.washington@yahoo.com,Colorado Springs,Deal Seeker
+97038,CUST_97038,Linda,Scott,linda.scott@outlook.com,Denver,High Value
+97052,CUST_97052,Christopher,Koch,christopher.koch@gmail.com,Austin,Occasional Shopper
+97116,CUST_97116,Jamie,Lester,jamie.lester@outlook.com,Raleigh,Loyal Customer
+97145,CUST_97145,Jamie,Thompson,jamie.thompson@gmail.com,Milwaukee,Occasional Shopper
+97289,CUST_97289,Christie,Smith,christie.smith@yahoo.com,Jacksonville,Online Shopper
+97314,CUST_97314,Hayley,Wood,hayley.wood@yahoo.com,Baltimore,High Value
+97424,CUST_97424,Alexander,Silva,alexander.silva@gmail.com,Raleigh,Deal Seeker
+97432,CUST_97432,Kathy,Welch,kathy.welch@gmail.com,Memphis,Budget Shopper
+97484,CUST_97484,Sara,Franklin,sara.franklin@yahoo.com,Mesa,Loyal Customer
+97545,CUST_97545,Andrew,Reynolds,andrew.reynolds@gmail.com,Indianapolis,Budget Shopper
+97616,CUST_97616,Christy,Smith,christy.smith@yahoo.com,Louisville,First-time Buyer
+97637,CUST_97637,Stephen,Frazier,stephen.frazier@yahoo.com,Long Beach,Loyal Customer
+97663,CUST_97663,Lisa,Martin,lisa.martin@outlook.com,Las Vegas,In-Store Regular
+97830,CUST_97830,Alicia,Orr,alicia.orr@yahoo.com,Omaha,In-Store Regular
+97840,CUST_97840,Mary,Kirby,mary.kirby@outlook.com,Oklahoma City,High Value
+97865,CUST_97865,Manuel,Sexton,manuel.sexton@yahoo.com,Portland,Occasional Shopper
+97930,CUST_97930,Mark,Cabrera,mark.cabrera@yahoo.com,Columbus,First-time Buyer
+97993,CUST_97993,Alexis,Olson,alexis.olson@yahoo.com,Austin,Online Shopper
+98000,CUST_98000,Katherine,Morton,katherine.morton@gmail.com,Colorado Springs,First-time Buyer
+98039,CUST_98039,Cassandra,Douglas,cassandra.douglas@yahoo.com,Miami,Loyal Customer
+98042,CUST_98042,Alejandra,Mercer,alejandra.mercer@outlook.com,Nashville,Budget Shopper
+98189,CUST_98189,Daniel,Costa,daniel.costa@yahoo.com,Miami,Deal Seeker
+98273,CUST_98273,Veronica,Hall,veronica.hall@outlook.com,San Jose,Deal Seeker
+98358,CUST_98358,Brad,Young,brad.young@yahoo.com,Milwaukee,First-time Buyer
+98423,CUST_98423,Laura,Chavez,laura.chavez@yahoo.com,Chicago,In-Store Regular
+98428,CUST_98428,Lisa,Murillo,lisa.murillo@yahoo.com,Denver,Budget Shopper
+98554,CUST_98554,Peter,Martin,peter.martin@gmail.com,New Orleans,In-Store Regular
+98799,CUST_98799,Christopher,Porter,christopher.porter@gmail.com,Jacksonville,Premium Shopper
+98867,CUST_98867,Nicole,Powell,nicole.powell@gmail.com,Las Vegas,Churn Risk
+98961,CUST_98961,Helen,Powell,helen.powell@gmail.com,Detroit,Loyal Customer
+98962,CUST_98962,Megan,Johnson,megan.johnson@gmail.com,San Jose,Deal Seeker
+99000,CUST_99000,Tamara,Molina,tamara.molina@gmail.com,Tucson,Budget Shopper
+99021,CUST_99021,Rebecca,Barrett,rebecca.barrett@yahoo.com,Portland,In-Store Regular
+99025,CUST_99025,Abigail,Bowman,abigail.bowman@outlook.com,Atlanta,Occasional Shopper
+99030,CUST_99030,Christopher,Sanchez,christopher.sanchez@gmail.com,Austin,Occasional Shopper
+99038,CUST_99038,William,Dunn,william.dunn@yahoo.com,Albuquerque,In-Store Regular
+99248,CUST_99248,Michael,Carson,michael.carson@outlook.com,Phoenix,Deal Seeker
+99255,CUST_99255,Daniel,Cooke,daniel.cooke@yahoo.com,Colorado Springs,Premium Shopper
+99415,CUST_99415,Barry,Tran,barry.tran@outlook.com,Denver,Online Shopper
+99430,CUST_99430,Peter,Burke,peter.burke@yahoo.com,Jacksonville,Budget Shopper
+99450,CUST_99450,Susan,Ford,susan.ford@outlook.com,Oakland,Occasional Shopper
+99523,CUST_99523,Karen,Nguyen,karen.nguyen@yahoo.com,Memphis,Loyal Customer
+99622,CUST_99622,Charles,Anderson,charles.anderson@yahoo.com,Mesa,Occasional Shopper
+99702,CUST_99702,Kelsey,Howard,kelsey.howard@yahoo.com,New Orleans,Premium Shopper
+99897,CUST_99897,Roberto,Roman,roberto.roman@outlook.com,Albuquerque,Premium Shopper
+100000,CUST_100000,Keith,Foster,keith.foster@gmail.com,Boston,High Value
